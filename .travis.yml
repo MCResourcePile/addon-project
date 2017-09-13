@@ -1,0 +1,17 @@
+language: node_js
+dist: precise
+node_js:
+- 7
+branches:
+    only:
+    - master
+before_script:
+- npm install -g grunt
+- npm install -g grunt-site
+script: grunt
+after_success:
+- bash ./deploy.sh
+env:
+    global:
+    - ENCRYPTION_LABEL: "6de9220f047e"
+    - COMMIT_AUTHOR_EMAIL: "MCResourcePile@gmail.com"

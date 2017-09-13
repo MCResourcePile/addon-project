@@ -1,0 +1,8 @@
+title: "Pages"
+content:
+    - "General"
+    - path: "/stratus/rank-example"
+      name: "Ranks"
+    - path: "/stratus/maps/example"
+      name: "Maps"
+    - "Information"
