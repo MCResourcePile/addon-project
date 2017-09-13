@@ -13,5 +13,5 @@ after_success:
 - bash ./deploy.sh
 env:
     global:
-    - ENCRYPTION_LABEL: "6de9220f047e"
+    - ENCRYPTION_LABEL: "176b38d18fe7"
     - COMMIT_AUTHOR_EMAIL: "MCResourcePile@gmail.com"
