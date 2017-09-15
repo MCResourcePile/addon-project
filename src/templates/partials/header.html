@@ -19,6 +19,7 @@
         <!-- Page stylesheets -->
         <link href="https://mcresourcepile.github.io/assets/css/bootstrap.css" rel="stylesheet">
         <link href="https://mcresourcepile.github.io/assets/css/main.css" rel="stylesheet">
+        <link href="/assets/css/main.css" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" href="https://mcresourcepile.github.io/assets/favicon.ico">
         <!-- Page script files -->
@@ -95,6 +96,6 @@
             <div class="container">
                 <div class="content-header">
                     <%= partial('partials/alert.html') %>
-                    <div class="content-title"><%= title %></div>
+                    <div class="content-title"><%= title %> <a class="content-title-url" href="/<%= document.dest %>"><i class="fa fa-link" aria-hidden="true"></i> <%= (document.src).replace('.md', '') %></a></div>
                     <div class="content-subtitle"><%= description %></div>
                 </div>

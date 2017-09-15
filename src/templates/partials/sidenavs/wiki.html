@@ -1,0 +1,6 @@
+<ul class="nav nav-pills nav-stacked sidenav">
+    <li>Navigation</li>
+    <% _.each(_.where(documents, {"category": "wiki"}), function (document) { %>
+    <li><a href="/<%= document.dest %>"><%= document.title %></a></li>
+    <% }); %>
+</ul>

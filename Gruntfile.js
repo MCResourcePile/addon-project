@@ -5,7 +5,7 @@ module.exports = function(grunt) {
             public: {
                 options: {
                     templates: 'templates', 
-                    defaultTemplate: 'default.html'
+                    defaultTemplate: 'full.html'
                 },
                 src: 'src',
                 dest: 'out'
