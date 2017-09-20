@@ -9,3 +9,18 @@
     color: #908d8d;
     text-decoration: none;
 }
+
+.navbar-brand-stacked {
+    display: inline-block;
+    margin-top: -10px;
+    margin-left: 6px;
+}
+
+.navbar-brand-icon {
+    vertical-align: 10px;
+}
+
+.stack-small {
+    font-size: 12px;
+    color: #818181;
+}
