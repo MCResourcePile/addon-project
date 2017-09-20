@@ -13,12 +13,12 @@ The Stratus Network uses PGM, a plugin originally developed for the Overcast Net
 
 - Capture
     - [Capture the Flag](/ctf)
-    - Capture the Wool
-    - King of the Hill
+    - [Capture the Wool](/ctw)
+    - [King of the Hill](/koth)
 - Destroy
-    - Destroy the Core
-    - Destroy the Monument
-- Team Deathmatch
+    - [Destroy the Core](/dtc)
+    - [Destroy the Monument](/dtm)
+- [Team Deathmatch](/tdm)
 
 #### Full List of Gamemodes
 
