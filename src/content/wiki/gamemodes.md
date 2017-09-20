@@ -12,14 +12,14 @@ The Stratus Network uses PGM, a plugin originally developed for the Overcast Net
 #### Primary Gamemodes
 
 - Capture
-    - [Capture the Flag](/ctf)
-    - [Capture the Wool](/ctw)
-    - [King of the Hill](/koth)
+    - [Capture the Flag](ctf)
+    - [Capture the Wool](ctw)
+    - [King of the Hill](koth)
 - Destroy
-    - [Destroy the Core](/dtc)
-    - [Destroy the Monument](/dtm)
+    - [Destroy the Core](dtc)
+    - [Destroy the Monument](dtm)
 - Team Deathmatch
-    - [Team Deathmatch](/tdm)
+    - [Team Deathmatch](tdm)
 
 #### Full List of Gamemodes
 
@@ -40,4 +40,4 @@ This is a full list of gamemodes that can be played using PGM. Not all of these 
 
 #### Mutations
 
-[Mutations](/mutations) are alterations to a PGM game that can be applied before and during a PGM game.
+[Mutations](mutations) are alterations to a PGM game that can be applied before and during a PGM game.
