@@ -1,0 +1,11 @@
+.sidenav > li > a {
+    padding: 5px 15px;
+}
+
+.content-title-url,
+.content-title-url:hover,
+.content-title-url:focus {
+    font-size: 18px;
+    color: #908d8d;
+    text-decoration: none;
+}
