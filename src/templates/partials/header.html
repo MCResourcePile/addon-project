@@ -19,7 +19,7 @@
         <!-- Page stylesheets -->
         <link href="https://mcresourcepile.github.io/assets/css/bootstrap.css" rel="stylesheet">
         <link href="https://mcresourcepile.github.io/assets/css/main.css" rel="stylesheet">
-        <link href="/markdown/assets/css/main.css" rel="stylesheet">
+        <link href="/addon-project/assets/css/main.css" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" href="https://mcresourcepile.github.io/assets/favicon.ico">
         <!-- Page script files -->
@@ -91,7 +91,7 @@
                                 <li><a href="/stats/overcast/objective">Objective Leaderboards</a></li>
                             </ul>
                         </li>
-                        <li class="active"><a href="/markdown/wiki"><i class="fa fa-globe"></i> Wiki</a></li>
+                        <li class="active"><a href="/addon-project/wiki"><i class="fa fa-globe"></i> Wiki</a></li>
                         <li><a href="/updates"><span class="fa fa-newspaper-o"></span> Updates</a></li>
                     </ul>
                 </div>
@@ -101,6 +101,6 @@
             <div class="container">
                 <div class="content-header">
                     <%= partial('partials/alert.html') %>
-                    <div class="content-title"><%= title %> <a class="content-title-url" href="/markdown/<%= document.dest.replace('.html', '') %>"><i class="fa fa-link" aria-hidden="true"></i> <%= (document.src).replace('.md', '') %></a></div>
+                    <div class="content-title"><%= title %> <a class="content-title-url" href="/addon-project/<%= document.dest.replace('.html', '') %>"><i class="fa fa-link" aria-hidden="true"></i> <%= (document.src).replace('.md', '') %></a></div>
                     <div class="content-subtitle"><%= description %></div>
                 </div>
