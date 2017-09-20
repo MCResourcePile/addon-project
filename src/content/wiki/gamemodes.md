@@ -12,7 +12,7 @@ The Stratus Network uses PGM, a plugin originally developed for the Overcast Net
 #### Primary Gamemodes
 
 - Capture
-    - Capture the Flag
+    - [Capture the Flag](/ctf)
     - Capture the Wool
     - King of the Hill
 - Destroy
