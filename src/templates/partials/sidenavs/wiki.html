@@ -1,6 +1,6 @@
 <ul class="nav nav-pills nav-stacked sidenav">
     <li>Navigation</li>
     <% _.each(_.where(documents, {"category": "wiki"}), function (document) { %>
-    <li><a href="/markdown/<%= document.dest %>"><%= document.title %></a></li>
+    <li><a href="/markdown/<%= document.dest.replace('.html', '') %>"><%= document.title %></a></li>
     <% }); %>
 </ul>
