@@ -15,7 +15,9 @@ Administrators are tasked with running the entirety of the server. Each administ
 
 #### Requirements
 
-There are currently no set requirements to become an Administrator. However, it can be assumed that a high ranking user (such as a Senior Moderator or Developer) that proves to be an extremely valued asset to the server's system will be promoted to Admin.
+There are currently no set requirements to become an Administrator. However, it can be assumed that a high ranking user (such as a Senior Moderator or Developer) that proves to be an extremely valued asset to the server's system will be promoted to Admin. 
+
+<span style="color:blue">This is Blue text.</span>
 
 #### Current Rank Holders
 
