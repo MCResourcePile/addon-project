@@ -2,7 +2,7 @@
 title: Advisor
 description: About the Advisor rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Advisor

@@ -2,7 +2,7 @@
 title: Junior Moderator
 description: About the Junior Moderator rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Junior Moderator

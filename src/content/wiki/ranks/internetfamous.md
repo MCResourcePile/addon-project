@@ -2,7 +2,7 @@
 title: Internet Famous
 description: About the Internet Famous rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Internet Famous

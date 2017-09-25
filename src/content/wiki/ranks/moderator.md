@@ -2,7 +2,7 @@
 title: Moderator
 description: About the Moderator rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Moderator

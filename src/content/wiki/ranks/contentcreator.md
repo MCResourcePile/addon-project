@@ -2,7 +2,7 @@
 title: Content Creator
 description: About the Content Creator rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Content Creator

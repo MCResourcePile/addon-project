@@ -14,33 +14,33 @@ Purchasable ranks, also known as donator ranks, are available to any user throug
 #### Staff Ranks
 
 Current Stratus Network staff ranks:
-- [Administrator](administrators)
-- [Advisor](advisor)
-- [Developer](developer)
-- [Junior Developer](juniordeveloper)
-- [Senior Moderator](seniormoderator)
-- [Moderator](moderator)
-- [Map Developer](mapdeveloper)
-- [Junior Moderator](juniormoderator)
-- [Senior Referee](seniorref)
-- [Referee](referee)
-- [Event Producer](eventproducer)
+- [Administrator](ranks/administrator)
+- [Advisor](ranks/advisor)
+- [Developer](ranks/developer)
+- [Junior Developer](ranks/juniordeveloper)
+- [Senior Moderator](ranks/seniormoderator)
+- [Moderator](ranks/moderator)
+- [Map Developer](ranks/mapdeveloper)
+- [Junior Moderator](ranks/juniormoderator)
+- [Senior Referee](ranks/seniorref)
+- [Referee](ranks/referee)
+- [Event Producer](ranks/eventproducer)
 
 Former Stratus Network staff ranks:
-- [Marketing](marketing)
+- [Marketing](ranks/marketing)
 
 #### Purchasable Ranks
 
-[Legacy Ranks](legacyranks)
+[Legacy Ranks](ranks/legacyranks)
 - Strato
 - Alto
 - Cirro
 
-[Subscription Ranks](subscriptionranks)
+[Subscription Ranks](ranks/subscriptionranks)
 - Stratus+
 - Stratus-
 
 #### Content-based Ranks
 
-- [Content Creator](contentcreator)
-- [Internet Famous](internetfamous)
+- [Content Creator](ranks/contentcreator)
+- [Internet Famous](ranks/internetfamous)

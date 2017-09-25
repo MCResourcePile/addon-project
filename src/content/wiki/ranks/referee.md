@@ -2,7 +2,7 @@
 title: Referee
 description: About the Referee rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Referee

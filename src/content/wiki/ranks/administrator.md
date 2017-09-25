@@ -2,7 +2,7 @@
 title: Administrator
 description: About the Administrator rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Administrator

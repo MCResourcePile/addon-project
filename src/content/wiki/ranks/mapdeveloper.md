@@ -2,7 +2,7 @@
 title: Map Developer
 description: About the Map Developer rank on the Stratus Network
 template: wiki/default.html
-category: wiki
+category: ranks
 ---
 
 #### Map Developer
