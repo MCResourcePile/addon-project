@@ -2,6 +2,10 @@
     padding: 0px 15px;
 }
 
+.sidenav-sub {
+    padding-left: 12px;
+}
+
 .content-title-url,
 .content-title-url:hover,
 .content-title-url:focus {
