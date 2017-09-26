@@ -1,8 +1,16 @@
 ---
 title: Administrator
 description: About the Administrator rank on the Stratus Network
-template: wiki/default.html
+template: wiki/rank.html
 category: ranks
+
+badge_color: f9a825
+symbol: ❖
+symbol_color: fdae24
+discord_title: Administrator
+discord_color: f6a738
+abbreviation: Admin
+groups: Staff
 ---
 
 #### Administrator

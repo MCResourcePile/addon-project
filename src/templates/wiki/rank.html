@@ -1,0 +1,28 @@
+<%= partial('partials/header.html') %>
+<div class="row">
+    <div class="col-md-10">
+        <post class="post-thumbnail col-md-12" style="margin-top:0px;">
+            <div class="post-header" style="font-size: 16px;">Rank Details</div>
+            <div class="post-body" style="padding-bottom:8px;">
+                <div class="row">
+                    <div class="col-md-4">
+                        Forum appearance: <span class="label forum-badge" style="background-color:#<%= badge_color %>"><%= title %></span><br>
+                        Discord appearance: <span class="label discord-badge" style="border: solid #<%= discord_color %> 1px;color:#<%= discord_color %>;"><%= discord_title %></span>
+                    </div>
+                    <div class="col-md-4">
+                        Minecraft appearance: <span class="minecraft-badge" style="color:#<%= symbol_color %>;"><%= symbol %></span>
+                    </div>
+                    <div class="col-md-4">
+                        Abbreviated name: <a><%= abbreviation %></a><br>
+                        Groups: <a><%= groups %></a>
+                    </div>
+                </div>
+            </div>
+        </post>
+        <%= content %>
+    </div>
+    <div class="col-md-2">
+        <%= partial('partials/sidenavs/wiki.html') %>
+    </div>
+</div>
+<%= partial('partials/footer.html') %>
