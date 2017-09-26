@@ -155,7 +155,7 @@
         <div class="col-sm-3">
             <ul id="drilldown" class="nav nav-pills nav-stacked sidenav">
                 <li>Navigation</li>
-                <li><a href="/addon-project/wiki/">Stratus Network</a></li>
+                <li><a href="/addon-project/wiki/index">Stratus Network</a></li>
                 <li><a href="/addon-project/wiki/history">History</a></li>
                 <li><a href="/addon-project/wiki/ranks" data-toggle="collapse" data-target="#menu-ranks">Ranks</a>
                     <div style="padding-left:0px;">
@@ -222,7 +222,7 @@
         <script src="https://mcresourcepile.github.io/assets/js/commons.js"></script>
         <script>
             $(document).ready(function(){
-                $("[href='/addon-project/wiki/ranks']").parent('li').addClass("active");
+                $("[href='/addon-project/wiki/ranks']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
                 $("li.sidenav-sub.active").parent('ul').removeClass('collapse');
             });
         </script>
