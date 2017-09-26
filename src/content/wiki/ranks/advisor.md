@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Advisor
-
 Advisors are part of the former Overcast Network Development and [Administration](administrator) team. They are chosen to assist and guide the staff and the development team with their experience and knowledge on running the servers. They have operator permissions on the server.
 
 #### Description

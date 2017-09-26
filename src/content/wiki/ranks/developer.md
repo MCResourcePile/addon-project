@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Developer
-
 The developer rank is given to those who officially develop the Stratus Network, be it on the website, or for the [PGM](pgm) fork.
 
 #### Description

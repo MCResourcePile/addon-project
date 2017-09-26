@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Internet Famous
-
 Internet Famous is a rank on the Stratus Network. It is one of the two ranks that is given by producing content. The other being Content Creator. It was announced and added on May 5th, 2017, at the exact same time as the Content Creator rank.
 
 #### Description

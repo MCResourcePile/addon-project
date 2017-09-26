@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Map Developer
-
 Map Developers are the staff members in charge of creating and managing maps. A Map developer is very knowledgeable in either building, [XML](xml), or both.
 
 #### Description

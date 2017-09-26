@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Junior Moderator
-
 Junior Moderators are a group of staff members together with Moderators and Senior Moderators that enforce the rules and keep a friendly atmosphere. They represent the order of the community, and are expected to uphold all of the rules, and to help others do the same. Junior Moderators are the first step in the path of moderation, and use the rank as a way to get accustomed to how the staff team works and how to handle the new found power of moderator.
 
 #### Description

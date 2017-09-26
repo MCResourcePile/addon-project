@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Referee
-
 The Referee rank is the first rank within the event staff team.
 
 #### Description

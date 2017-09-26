@@ -13,8 +13,6 @@ abbreviation: Admin
 groups: Staff
 ---
 
-#### Administrator
-
 The rank of Administrator is the highest [rank](ranks) on the [Stratus Network](/stratus.network). It is currently held by four users, including the server owner ShinyDialga.
 
 #### Description

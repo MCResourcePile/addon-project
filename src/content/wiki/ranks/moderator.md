@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Moderator
-
 Moderators are a group of staff members that enforce the rules and keep a friendly atmosphere. They represent the order of the community, and are expected to uphold all of the rules, and to help others do the same.
 
 #### Description

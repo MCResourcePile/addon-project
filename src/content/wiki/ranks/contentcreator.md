@@ -13,8 +13,6 @@ abbreviation:
 groups: 
 ---
 
-#### Content Creator
-
 Content Creator is a rank on the Stratus Network. It is one two ranks that is given by producing content, the other being Internet Famous. It was announced and added in May 5th 2017 at the same time as the [Internet Famous](internetfamous) rank.
 
 #### Description
