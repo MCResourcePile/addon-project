@@ -7,16 +7,16 @@
                 <li><a href="/addon-project/wiki/history">History</a></li>
                 <li><a href="/addon-project/wiki/ranks" data-toggle="collapse" data-target="#menu-ranks">Ranks</a>
                     <div style="padding-left:0px;">
-                        <ul id="menu-ranks" class="nav nav-pills nav-stacked collapse">
-                            <% _.each(_.where(documents, {"category": "ranks"}), function (document) { %><li class="sidenav-sub"><a href="/addon-project/<%= document.dest.replace('.html', '') %>"><%= document.title %></a></li><% }); %>
+                        <ul id="menu-ranks" class="nav nav-pills nav-stacked collapse sidenav">
+                            <% _.each(_.where(documents, {"category": "ranks"}), function (page) { %><li class="sidenav-sub"><a href="/addon-project/<%= page.dest.replace('.html', '') %>"><%= page.title %></a></li><% }); %>
                         </ul>
                     </div>
                 </li>
                 <li><a href="/addon-project/wiki/events">Events</a></li>
                 <li><a href="/addon-project/wiki/gamemodes" data-toggle="collapse" data-target="#menu-games">Gamemodes</a>
                     <div style="padding-left:0px;">
-                        <ul id="menu-games" class="nav nav-pills nav-stacked collapse">
-                            <% _.each(_.where(documents, {"category": "games"}), function (document) { %><li class="sidenav-sub"><a href="/addon-project/<%= document.dest.replace('.html', '') %>"><%= document.title %></a></li><% }); %>
+                        <ul id="menu-games" class="nav nav-pills nav-stacked collapse sidenav">
+                            <% _.each(_.where(documents, {"category": "games"}), function (page) { %><li class="sidenav-sub"><a href="/addon-project/<%= page.dest.replace('.html', '') %>"><%= page.title %></a></li><% }); %>
                         </ul>
                     </div>
                 </li>
@@ -24,7 +24,7 @@
                 <li><a href="https://github.com/MCResourcePile/addon-project/edit/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Edit this page</a></li>
                 <li><a href="https://github.com/MCResourcePile/addon-project/commits/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Page history</a></li>
                 <li>Wiki Tools</li>
-                <% _.each(_.where(documents, {"category": "tools"}), function (document) { %><li><a href="/addon-project/<%= document.dest.replace('.html', '') %>"><%= document.title %></a></li><% }); %>
+                <% _.each(_.where(documents, {"category": "tools"}), function (page) { %><li><a href="/addon-project/<%= page.dest.replace('.html', '') %>"><%= page.title %></a></li><% }); %>
             </ul>
         </div>
     </div>
