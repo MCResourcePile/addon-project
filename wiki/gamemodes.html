@@ -158,7 +158,7 @@
                 <li><a href="/addon-project/wiki/history">History</a></li>
                 <li><a href="/addon-project/wiki/ranks" data-toggle="collapse" data-target="#menu-ranks">Ranks</a>
                     <div style="padding-left:0px;">
-                        <ul id="menu-ranks" class="nav nav-pills nav-stacked collapse">
+                        <ul id="menu-ranks" class="nav nav-pills nav-stacked collapse sidenav">
                             <li class="sidenav-sub"><a href="/addon-project/wiki/ranks/administrator">Administrator</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/advisor">Advisor</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/contentcreator">Content Creator</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/developer">Developer</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/internetfamous">Internet Famous</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/juniormoderator">Junior Moderator</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/mapdeveloper">Map Developer</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/moderator">Moderator</a></li><li class="sidenav-sub"><a href="/addon-project/wiki/ranks/referee">Referee</a></li>
                         </ul>
                     </div>
@@ -166,7 +166,7 @@
                 <li><a href="/addon-project/wiki/events">Events</a></li>
                 <li><a href="/addon-project/wiki/gamemodes" data-toggle="collapse" data-target="#menu-games">Gamemodes</a>
                     <div style="padding-left:0px;">
-                        <ul id="menu-games" class="nav nav-pills nav-stacked collapse">
+                        <ul id="menu-games" class="nav nav-pills nav-stacked collapse sidenav">
                             
                         </ul>
                     </div>
@@ -219,6 +219,12 @@
             </div>
         </div>
         <script src="https://mcresourcepile.github.io/assets/js/commons.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("[href='/addon-project/wiki/ranks/administrator']").parent('li').addClass("active");
+                $("li.sidenav-sub.active").parent('ul').removeClass('collapse');
+            });
+        </script>
     </body>
 </html>
 
