@@ -110,9 +110,9 @@
 <script>
     var document_destination = window.location.href.toString().split(window.location.host)[1]
     var document_url = document_destination.replace('addon-project/', '')
-    var current_path = document_url.substring(0, document_url.lastIndexOf("/"))
+    var current_path = document_url.substring(1, document_url.lastIndexOf("/"))
     var current_page = document_url.substring(document_url.lastIndexOf("/") + 1, document_url.length).replace('.html', '')
-    $('#new-page-link').attr('href', 'https://github.com/MCResourcePile/addon-project/edit/source/src/' + current_path + '?filename=' + current_page + '.md')
+    $('#new-page-link').attr('href', 'https://github.com/MCResourcePile/addon-project/new/source/src/' + current_path + '?filename=' + current_page + '.md')
 </script>
 
             </div>
