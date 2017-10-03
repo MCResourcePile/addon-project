@@ -7,7 +7,7 @@ category: wiki
 
 #### Mutations
 
-Mutations are a PGM feature which may be used to modify elements of a single match. Some examples of mutations are Armor, which gives players diamond armor, and health, which gives players 10 extra hearts of health. Mutations only last for a single match, and may be enabled or disabled by staff members. Mutations can also be enabled through the use of a Mutation Token, which will create a poll for players to vote and decide whether or not to add a specific Mutation.
+Mutations are a PGM feature which may be used to modify elements of a single match. Some examples of a mutation are the Armor mutation, which gives players diamond armor, and the Health mutation, which gives players 10 extra hearts of health. Mutations only last for a single match, and may be enabled or disabled by staff members. Mutations can also be enabled through the use of a Mutation Token, which will create a poll for players to vote and decide whether or not to add a specific Mutation.
 
 #### List of Mutations
 
