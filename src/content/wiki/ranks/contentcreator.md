@@ -17,7 +17,7 @@ Content Creator is a rank on the Stratus Network. It is one two ranks that is gi
 
 #### Description
 
-The Content Creator rank, is given to users who frequently record or stream gameplay on the Stratus Network to YouTube or Twitch, respectively. The user is expected to commit to producing Stratus-related content in order to continue using the rank.
+The Content Creator rank, is given to users who frequently record or stream gameplay on the Stratus Network to YouTube or Twitch. The user is expected to remain committed to producing Stratus-related content in order to continue using the rank.
 
 #### Requirements
 
@@ -26,7 +26,7 @@ YouTube
 - At least 200 YouTube Subscribers
 - At least ~150 views per video (certain exceptions may be made)
 - At least 2 Stratus Network videos
-- No content that breaks any Stratus Network rules
+- No content that violates the Stratus Network rules
 - All Stratus-based content must include the word “Stratus” in its title
 - All Stratus-based content must include the server IP “play.stratus.network” in its description
 
