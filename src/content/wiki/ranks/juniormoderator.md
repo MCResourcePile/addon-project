@@ -17,7 +17,7 @@ Junior Moderators are a group of staff members together with Moderators and Seni
 
 #### Description
 
-A moderator's primary task is to uphold and enforce order in the server by ensuring that the rules are followed. They punish those who break them, and help keep the server, both in Minecraft and in Discord, a friendly place by upholding the rules.
+A moderator's primary task is to uphold and enforce order in the server by ensuring that the rules are followed. They punish those who break them, and help keep the server, both in Minecraft and in Discord, a friendly place for all players.
 
 #### Requirements
 
