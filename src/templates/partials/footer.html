@@ -1,3 +1,5 @@
+                <hr>
+                Last modification: <span id="last-page-mod">unknown</span>
             </div>
         </div>
         <div class="footer">
@@ -40,6 +42,9 @@
             $(document).ready(function(){
                 $("[href='/addon-project/<%= document.dest.replace('.html', '') %>']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
                 $("li.sidenav-sub.active").parent('ul').removeClass('collapse');
+            });
+            $(function() {
+                $('#last-page-mod').githubInfoWidget({ user: 'MCResourcePile', repo: 'addon-project', branch: 'source', path: 'src/content/<%= document.src.replace(".html", ".md") %>', nouser: true, nomsg: true, abstime: false, simple: 1, last: 1, limitMessageTo: 500 });
             });
         </script>
     </body>
