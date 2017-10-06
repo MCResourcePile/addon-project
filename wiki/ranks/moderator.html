@@ -27,6 +27,7 @@
         <script src="https://mcresourcepile.github.io/assets/js/bootstrap.min.js"></script>
         <script src="https://mcresourcepile.github.io/assets/js/js.cookie.js"></script>
         <script src="https://mcresourcepile.github.io/assets/js/preferences.js"></script>
+        <script src="/addon-project/assets/js/github.commits.widget.js"></script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -197,6 +198,8 @@
 </ul>
     </div>
 </div>
+                <hr>
+                Last modification: <span id="last-page-mod">unknown</span>
             </div>
         </div>
         <div class="footer">
@@ -239,6 +242,9 @@
             $(document).ready(function(){
                 $("[href='/addon-project/wiki/ranks/moderator']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
                 $("li.sidenav-sub.active").parent('ul').removeClass('collapse');
+            });
+            $(function() {
+                $('#last-page-mod').githubInfoWidget({ user: 'MCResourcePile', repo: 'addon-project', branch: 'source', path: 'src/content/wiki/ranks/moderator.md', nouser: true, nomsg: true, abstime: false, simple: 1, last: 1, limitMessageTo: 500 });
             });
         </script>
     </body>
