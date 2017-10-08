@@ -18,7 +18,7 @@ The Stratus Network uses PGM, a plugin originally developed for the Overcast Net
 - Destroy
     - [Destroy the Core](dtc)
     - [Destroy the Monument](dtm)
-- Team Deathmatch
+- Deathmatch
     - [Team Deathmatch](tdm)
 
 #### Full List of Gamemodes
