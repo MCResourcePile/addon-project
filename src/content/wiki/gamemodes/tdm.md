@@ -1,5 +1,5 @@
 ---
-title: Teamdeath Match
+title: Team Deathmatch
 description: 
 template: wiki/default.html
 category: games
