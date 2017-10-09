@@ -100,7 +100,9 @@
         <div class="content-background">
             <div class="container">
                 <div class="content-header">
-                    <%= partial('partials/alert.html') %>
+                    <div class="content-alert">
+                        <%= partial('partials/alert.html') %>
+                    </div>
                     <div class="content-title"><%= title %> <a class="content-title-url" href="/addon-project/<%= document.dest.replace('.html', '') %>"><i class="fa fa-link" aria-hidden="true"></i> <%= (document.src).replace('.md', '') %></a></div>
                     <div class="content-subtitle"><%= description %></div>
                 </div>
