@@ -102,120 +102,227 @@
                 <div class="content-header">
                     <div class="alert alert-info alert-global" role="alert">Find out how you can contribute to the wiki <a href="https://mcresourcepile.github.io/addon-project/wiki/tools/contributing">here</a>! Consider joining our <a href="https://discord.gg/ygNgxKj">discord server</a> to keep up-to-date with other contributors and new updates.</div>
 
-                    <div class="content-title">Mutations <a class="content-title-url" href="/addon-project/wiki/mutations"><i class="fa fa-link" aria-hidden="true"></i> wiki/mutations</a></div>
+                    <div class="content-title">Mutations <a class="content-title-url" href="/addon-project/wiki/gamemodes/mutations"><i class="fa fa-link" aria-hidden="true"></i> wiki/gamemodes/mutations</a></div>
                     <div class="content-subtitle">The selection of mutations that Stratus offers</div>
                 </div>
 
 <div class="row">
     <div class="col-md-10">
-        <h4 id="mutations">Mutations</h4>
-<p>Mutations are a PGM feature which may be used to modify elements of a single match. Some examples of mutations are the Armor mutation, which gives players diamond armor, and the Health mutation, which gives players 10 extra hearts of health. Mutations only last for a single match, and may be enabled or disabled by staff members. Mutations can also be enabled through the use of a Mutation Token, which will create a poll for players to vote and decide whether or not to add a specific Mutation.</p>
-<h4 id="list-of-mutations">List of Mutations</h4>
-<p>Below are a full list of mutations currently usable on Stratus.</p>
+        <p>Mutations are a PGM feature which may be used to modify elements of a single match. Some examples of mutations are the Armor mutation, which gives players diamond armor, and the Health mutation, which gives players 10|Y extra hearts of health. Mutations only last for a single match, and may be enabled or disabled by staff members. Mutations can also be enabled through the use of a Mutation Token, which will create a poll for players to vote and decide whether or not to add a specific Mutation.</p>
 <h4 id="kit-based-mutations">Kit-based mutations</h4>
 <p>This section lists mutations which are granted through kits.</p>
-<ul>
-<li>Armor<ul>
-<li>Full diamond armor and a diamond sword. Pack a punch!</li>
-</ul>
-</li>
-<li>Boat<ul>
-<li>Gives players a boat that can float anywhere. Only works with 1.9+ versions.</li>
-</ul>
-</li>
-<li>Bread<ul>
-<li>A meme come to life. This mutation grants players various breads. It, however, knows and punishes players for switching teams.</li>
-</ul>
-</li>
-<li>Elytra<ul>
-<li>Spawns with an Elytra in the players chestplate slot. Includes a modified version of the Jump mutation that propels players higher but takes much longer to recharge.</li>
-</ul>
-</li>
-<li>Enchantment<ul>
-<li>Applies different enchants to almost everything in your inventory, including tools, armor, weapons and bows. These enchantments are applied with different levels of enchantment.</li>
-</ul>
-</li>
-<li>Equestrian<ul>
-<li>Grants players the ability to traverse the map on their own horse! Players are given a spawn egg for their own horse, and each horse spawns with randomly provisioned armor.</li>
-</ul>
-</li>
-<li>Explosive<ul>
-<li>Gives players a kit with 8 TNT and flint and steel. During this mutation, TNT explosions have a randomised radius.</li>
-</ul>
-</li>
-<li>Health<ul>
-<li>Doubles health from 10 to 20 hearts. Each kill rewards players a golden apple.</li>
-</ul>
-</li>
-<li>Mobs<ul>
-<li>Gives players spawn eggs to spawn random mobs.</li>
-</ul>
-</li>
-<li>Potion<ul>
-<li>Spawns players with various potions to use on their victims or on their teammates, with its effects ranging from negative effects like Poison and Blindness to positive effects like Speed and Strength. Use it to annoy your victims or help your team turn the tides in their favor.</li>
-</ul>
-</li>
-<li>Projectile<ul>
-<li>Applies different effects to projectiles, such as snowballs and arrows. When players are hit with the projectiles, the projectiles apply various negative effects to the victim, such as Weakness, Levitation (it&#39;s annoying!) and other random potion effects. The mutation also features various enchantment on bows, such as Flame and Punch.</li>
-</ul>
-</li>
-<li>Tools<ul>
-<li>Gives players random enchantment on their tools. These enchantments are given with an amplifier of 3.</li>
-</ul>
-</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>Mutation</th>
+<th>Description</th>
+<th style="text-align:center"><span title="Chance this mutation will be randomly enabled">C</span></th>
+<th><span title="Players can use Mutation Tokens to enable this mutation">T</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/diamond_chestplate.png" alt="Armor"></td>
+<td>Armor</td>
+<td>Full diamond armor and a diamond sword. Pack a punch!</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/oak_boat.png" alt="Boat"></td>
+<td>Boat</td>
+<td>Gives players a boat that can float anywhere. Only works with 1.9+ versions.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/bread.png" alt="Bread"></td>
+<td>Bread</td>
+<td>A meme come to life. This mutation grants players various breads. It, however, knows and punishes players for switching teams.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/elytra.png" alt="Elytra"></td>
+<td>Elytra</td>
+<td>Spawns with an Elytra in the players chestplate slot. Includes a modified version of the Jump mutation that propels players higher but takes much longer to recharge.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/enchantment_table.png" alt="Enchantment"></td>
+<td>Enchantment</td>
+<td>Applies different enchants to almost everything in your inventory, including tools, armor, weapons and bows. These enchantments are applied with different levels of enchantment.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/saddle.png" alt="Equestrian"></td>
+<td>Equestrian</td>
+<td>Grants players the ability to traverse the map on their own horse! Players are given a spawn egg for their own horse, and each horse spawns with randomly provisioned armor.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/tnt.png" alt="Explosive"></td>
+<td>Explosive</td>
+<td>Gives players a kit with 8 TNT and flint and steel. During this mutation, TNT explosions have a randomised radius.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/beef_cooked.png" alt="Health"></td>
+<td>Health</td>
+<td>Doubles health from 10 20 hearts. Each kill rewards players a golden apple.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/spawn_egg.png" alt="Mobs"></td>
+<td>Mobs</td>
+<td>Gives players spawn eggs to spawn random mobs.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/potion_bottle.png" alt="Potion"></td>
+<td>Potion</td>
+<td>Spawns players with various potions to use on their victims or on their teammates, with its effects ranging from negative effects like Poison and Blindness to positive effects like Speed and Strength. Use it to annoy your victims or help your team turn the tides in their favor.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/tipped_arrow.png" alt="Projectile"></td>
+<td>Projectile</td>
+<td>Applies different effects to projectiles, such as snowballs and arrows. When players are hit with the projectiles, the projectiles apply various negative effects to the victim, such as Weakness, Levitation and other random potion effects. The mutation also features various enchantment on bows, such as Flame and Punch.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/diamond_pickaxe.png" alt="Tools"></td>
+<td>Tools</td>
+<td>Gives players random enchantment on their tools. These enchantments are given with an amplifier of 3.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
 <h4 id="player-based-mutations">Player-based mutations</h4>
 <p>Mutations that give players different effects.</p>
-<ul>
-<li>Glow<ul>
-<li>Applies the glow effect and allows you to see players (teammates and enemies) through walls.</li>
-</ul>
-</li>
-<li>Hardcore<ul>
-<li>Features a similar play style to that of the Hardcore mode in vanilla. Throughout this mutation, no natural regeneration can occur. Regenerations from kill kits and woolroom items however, are allowed. It is usually used in conjunction with the Blitz mutation.</li>
-</ul>
-</li>
-<li>Jump<ul>
-<li>Applies greater velocities to the player, thus allowing features such as double jumps, which are otherwise not possible in normal versions of the map.</li>
-</ul>
-</li>
-<li>NoFall<ul>
-<li>Disables fall damage.</li>
-</ul>
-</li>
-<li>Stealth<ul>
-<li>Permanent invisibility (similar to Ghost Squadron). Stealth mode activate!</li>
-</ul>
-</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>Mutation</th>
+<th>Description</th>
+<th style="text-align:center"><span title="Chance this mutation will be randomly enabled">C</span></th>
+<th><span title="Players can use Mutation Tokens to enable this mutation">T</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/glowstone_dust.png" alt="Glow"></td>
+<td>Glow</td>
+<td>Applies the glow effect and allows you to see players (teammates and enemies) through walls.</td>
+<td style="text-align:center">0</td>
+<td>N</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/apple_golden.png" alt="Hardcore"></td>
+<td>Hardcore</td>
+<td>Features a similar play style to that of the Hardcore mode in vanilla. Throughout this mutation, no natural regeneration can occur. Regenerations from kill kits and woolroom items however, are allowed. It is usually used in conjunction with the Blitz mutation.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/feather.png" alt="Jump"></td>
+<td>Jump</td>
+<td>Applies greater velocities to the player, thus allowing features such as double jumps, which are otherwise not possible in normal versions of the map.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/glass.png" alt="Stealth"></td>
+<td>Stealth</td>
+<td>Permanent invisibility (similar to Ghost Squadron). Stealth mode activate!</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
 <h4 id="targetable-mutations">Targetable mutations</h4>
 <p>This mutation lists mutations which victimizes players.</p>
-<ul>
-<li>Apocalypse<ul>
-<li>Turns time to night and makes hostile mobs spawn uncontrollably. From Ghasts to Creepers, to Zombies, hordes of enemies will be thrown your way.</li>
-</ul>
-</li>
-<li>Bomber<ul>
-<li>&quot;Rocket barrage incoming!&quot; Features dropping TNT, and reigning (and raining) terror on the players. Run and hide while you can!</li>
-</ul>
-</li>
-<li>Lightning<ul>
-<li>Lightning is randomly summoned and smites a player. The lower health you have, the higher chance you have of getting hit. </li>
-</ul>
-</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>Mutation</th>
+<th>Description</th>
+<th style="text-align:center"><span title="Chance this mutation will be randomly enabled">C</span></th>
+<th><span title="Players can use Mutation Tokens to enable this mutation">T</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/nether_star.png" alt="Apocalypse"></td>
+<td>Apocalypse</td>
+<td>Turns time to night and makes hostile mobs spawn uncontrollably. From Ghasts to Creepers, to Zombies, hordes of enemies will be thrown your way.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/tnt.png" alt="Bomber"></td>
+<td>Bomber</td>
+<td>&quot;Rocket barrage incoming!&quot; Features dropping TNT, and reigning (and raining) terror on the players. Run and hide while you can!</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/jack_o_lantern.png" alt="Lightning"></td>
+<td>Lightning</td>
+<td>Lightning is randomly summoned and smites a player. The lower health you have, the higher chance you have of getting hit.</td>
+<td style="text-align:center">0</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
 <h4 id="other-mutations">Other mutations</h4>
 <p>This mutation lists uncategorized mutations.</p>
-<ul>
-<li>Blitz<ul>
-<li>Limited lives assigned per player, typically between 1 to 3. Occasionally (25% chance), it may also limit lives per team (usually until all players in the team died, thus giving 1 life per player).</li>
-</ul>
-</li>
-<li>Rage<ul>
-<li>One hit kills with a predefined kit, usually a sword and a bow. A player dies instantly when hit by these weapons.    </li>
-</ul>
-</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>Mutation</th>
+<th>Description</th>
+<th style="text-align:center"><span title="Chance this mutation will be randomly enabled">C</span></th>
+<th><span title="Players can use Mutation Tokens to enable this mutation">T</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/iron_bars.png" alt="Blitz"></td>
+<td>Blitz</td>
+<td>Limited lives assigned per player, typically between 1 to 3. Occasionally (25% chance), it may also limit lives per team (usually until all players in the team died, thus giving 1 life per player).</td>
+<td style="text-align:center">0</td>
+<td>N</td>
+</tr>
+<tr>
+<td><img src="/addon-project/assets/img/mutations/skeleton_skull.png" alt="Rage"></td>
+<td>Rage</td>
+<td>One hit kills with a predefined kit, usually a sword and a bow. A player dies instantly when hit by these weapons.</td>
+<td style="text-align:center">0</td>
+<td>N</td>
+</tr>
+</tbody>
+</table>
+<style>
+td > img {
+    margin-right: 8px;
+    width: 32px;
+    image-rendering: pixelated;
+}
+</style>
 
     </div>
     <div class="col-md-2">
@@ -287,9 +394,9 @@
         </div>
     </li>
     <li>Page Tools</li>
-    <li><a href="https://github.com/MCResourcePile/addon-project/edit/source/src/content/wiki/mutations.md" target="_blank">Edit this page</a></li>
-    <li><a href="https://raw.githubusercontent.com/MCResourcePile/addon-project/source/src/content/wiki/mutations.md" target="_blank">Page source</a></li>
-    <li><a href="https://github.com/MCResourcePile/addon-project/commits/source/src/content/wiki/mutations.md" target="_blank">Page history</a></li>
+    <li><a href="https://github.com/MCResourcePile/addon-project/edit/source/src/content/wiki/gamemodes/mutations.md" target="_blank">Edit this page</a></li>
+    <li><a href="https://raw.githubusercontent.com/MCResourcePile/addon-project/source/src/content/wiki/gamemodes/mutations.md" target="_blank">Page source</a></li>
+    <li><a href="https://github.com/MCResourcePile/addon-project/commits/source/src/content/wiki/gamemodes/mutations.md" target="_blank">Page history</a></li>
     <li>Wiki Tools</li>
     
     <li><a href="/addon-project/wiki/tools/contributing">Contributing</a></li>
@@ -339,11 +446,11 @@
         <script src="https://mcresourcepile.github.io/assets/js/commons.js"></script>
         <script>
             $(document).ready(function(){
-                $("[href='/addon-project/wiki/mutations']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
+                $("[href='/addon-project/wiki/gamemodes/mutations']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
                 $("li.sidenav-sub.active").parent('ul').removeClass('collapse');
             });
             $(function() {
-                $('#last-page-mod').githubInfoWidget({ user: 'MCResourcePile', repo: 'addon-project', branch: 'source', path: 'src/content/wiki/mutations.md', nouser: true, nomsg: true, abstime: false, simple: 1, last: 1, limitMessageTo: 500 });
+                $('#last-page-mod').githubInfoWidget({ user: 'MCResourcePile', repo: 'addon-project', branch: 'source', path: 'src/content/wiki/gamemodes/mutations.md', nouser: true, nomsg: true, abstime: false, simple: 1, last: 1, limitMessageTo: 500 });
             });
         </script>
     </body>
