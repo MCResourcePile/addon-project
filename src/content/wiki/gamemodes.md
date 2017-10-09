@@ -5,8 +5,6 @@ template: wiki/default.html
 category: wiki
 ---
 
-#### Gamemodes
-
 The Stratus Network uses PGM, a plugin originally developed for the Overcast Network, that was open-sourced upon it's closure. It's diverse system allows the mapmaker to write XML code attached with their map to be interpreted by PGM to play a variety of gamemodes. PGM gamemodes are generally PVP oriented with one or more objectives that must be completed in order for the match to end. Primary gamemodes can be divided into three subsections. Capture requires the team to take and control a specified object or point. Destroy requires the team to destroy a specified object. Team Deathmatch requires the team to kill as many members of the other team as possible. Stratus matches can be manipulated in many ways, although the most common are through the usage of Blitz, Rage, or Mutations.
 
 #### Primary Gamemodes

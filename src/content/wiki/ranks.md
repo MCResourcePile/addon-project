@@ -5,8 +5,6 @@ template: wiki/default.html
 category: wiki
 ---
 
-#### Ranks
-
 Ranks are an upgrade to a specific user. They provide the user with various perks and permissions depending on the rank. There are two types of ranks. [Staff](http://stratus.network/staff) and [Purchasable](https://stratusnetwork.buycraft.net/) ranks. Staff positions are given to players based on application and/or internal selection, and signify that an individual is part of the Stratus staff team.
 
 Purchasable ranks, also known as donator ranks, are available to any user through purchase in the Shop. These ranks are occasionally given as prize in competitions or as a reward in giveaways.
