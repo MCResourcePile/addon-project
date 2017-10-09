@@ -182,7 +182,7 @@ THE SOFTWARE.
                     if (differenceInDays === 0) {
                         var differenceInHours = Math.floor(((todayTime - commitTime)/(3600*1000)));
                         if (differenceInHours === 0) {
-                            var differenceInMinutes = Math.floor(((todayTime - commitTime)/(600*1000)));
+                            var differenceInMinutes = Math.floor(((todayTime - commitTime)/(60*1000)));
                             if (differenceInMinutes === 0) {
 
                                 return 'just now';
@@ -193,7 +193,7 @@ THE SOFTWARE.
 
                         return 'about ' + differenceInHours + ' hours ago';
                     } else if (differenceInDays == 1) {
-                        return 'yesterday';
+                        return '1 day ago';
                     }
                     if (differenceInDays > 365)
                     {
