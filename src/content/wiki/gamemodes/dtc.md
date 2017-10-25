@@ -7,7 +7,7 @@ category: games
 
 #### Description
 
-Destroy the Core, or DTC is a gamemode which the goal is to leak the enemy's core(s). Most maps consist of 1 or 2 cores, and it is quite common to see maps with a mix of [DTM](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtm)and DTC. Cores will always lie symmetrically opposite of each other on either side of the map.
+Destroy the Core, or DTC is a gamemode which the goal is to leak the enemy's core(s). Most maps consist of 1 or 2 cores, and it is quite common to see maps with a mix of [DTM](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtm) and DTC. Cores will always lie symmetrically opposite of each other on either side of the map.
 
 #### Cores
 
