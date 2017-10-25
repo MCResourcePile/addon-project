@@ -4,13 +4,13 @@ description: About the Moderator rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
-abbreviation: 
-groups: 
+badge_color: e53935
+symbol: ❖
+symbol_color: e53935
+discord_title: Moderator
+discord_color: e53935
+abbreviation: Mod
+groups: Staff, Moderation Staff
 ---
 
 Moderators are a group of staff members that enforce the rules and keep a friendly atmosphere. They represent the order of the community, and are expected to uphold all of the rules, and to help others do the same.
