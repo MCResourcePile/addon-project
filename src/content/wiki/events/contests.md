@@ -1,5 +1,7 @@
 ---
 title: Map Contests
+description:  
+template: wiki/default.html
 category: events
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: Tournaments
+description:  
+template: wiki/default.html
 category: events
 ---
 
