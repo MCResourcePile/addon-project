@@ -10,7 +10,7 @@ symbol_color: ff55ff
 discord_title: Junior Moderator
 discord_color: e71a7c
 abbreviation: Jr Mod
-groups: Staff. Moderation Staff
+groups: Staff, Moderation Staff
 ---
 
 Junior Moderators are a group of staff members together with Moderators and Senior Moderators that enforce the rules and maintain a friendly atmosphere. They represent the order of the community, are expected to uphold the rules and assist players. This rank is the first step in the path of moderation, and is a trial to be accustomed to the inner workings of the staff team and handling of the authority given.
