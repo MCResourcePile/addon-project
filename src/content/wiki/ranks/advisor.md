@@ -4,13 +4,13 @@ description: About the Advisor rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
+badge_color: b71c1c
 symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
+symbol_color: aa0000
+discord_title: Advisor
+discord_color: a22e37 
 abbreviation: 
-groups: 
+groups: Staff
 ---
 
 Advisors are part of the former Overcast Network Development and [Administration](administrator) team. They are chosen to assist and guide the staff and the development team with their experience and knowledge on running the servers. They have operator permissions on the server.

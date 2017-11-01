@@ -4,13 +4,13 @@ description: About the Map Developer rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
-abbreviation: 
-groups: 
+badge_color: 283593
+symbol: ፠
+symbol_color: 5555ff
+discord_title: Map Developer
+discord_color: 4348d3
+abbreviation: Map Dev
+groups: Staff
 ---
 
 Map Developers are the staff members in charge of creating and managing maps. A Map developer is very knowledgeable in either building, [XML](xml), or both.

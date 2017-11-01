@@ -4,12 +4,12 @@ description: About the Internet Famous rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
-abbreviation: 
+badge_color: 43a047
+symbol: ▲
+symbol_color: 00aa00
+discord_title: Internet Famous
+discord_color: 047625
+abbreviation: Content-based
 groups: 
 ---
 

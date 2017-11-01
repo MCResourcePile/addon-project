@@ -4,13 +4,13 @@ description: About the Content Creator rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
+badge_color: 43a047
+symbol: ►
+symbol_color: 55ff55
+discord_title: Content Creator
+discord_color: 187d00
 abbreviation: 
-groups: 
+groups: Content-based
 ---
 
 Content Creator is a rank on the Stratus Network. It is one two ranks that is given by producing content, the other being Internet Famous. It was announced and added in May 5th 2017 at the same time as the [Internet Famous](internetfamous) rank.

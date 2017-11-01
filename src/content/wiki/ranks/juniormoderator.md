@@ -4,13 +4,13 @@ description: About the Junior Moderator rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
+badge_color: ef9a9a
+symbol: ❖
+symbol_color: ff55ff
+discord_title: Junior Moderator
 discord_color: 
-abbreviation: 
-groups: 
+abbreviation: Jr Mod
+groups: Staff. Moderation Staff
 ---
 
 Junior Moderators are a group of staff members together with Moderators and Senior Moderators that enforce the rules and maintain a friendly atmosphere. They represent the order of the community, are expected to uphold the rules and assist players. This rank is the first step in the path of moderation, and is a trial to be accustomed to the inner workings of the staff team and handling of the authority given.

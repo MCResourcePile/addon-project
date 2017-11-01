@@ -4,13 +4,13 @@ description: About the Developer rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
-abbreviation: 
-groups: 
+badge_color: 6a1b9a
+symbol: ❖
+symbol_color: aa00aa
+discord_title: Developer
+discord_color: 713ba2
+abbreviation: Dev
+groups: Staff, Developers
 ---
 
 The developer rank is given to those who officially develop the Stratus Network, be it on the website, or for the [PGM](pgm) fork.

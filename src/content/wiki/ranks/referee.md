@@ -4,13 +4,13 @@ description: About the Referee rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
-symbol: 
-symbol_color: 
-discord_title: 
-discord_color: 
-abbreviation: 
-groups: 
+badge_color: 4dd0e1
+symbol: ❖
+symbol_color: 55ffff
+discord_title: Referee
+discord_color: 3fdbb7
+abbreviation: Ref
+groups: Staff, Event Staff
 ---
 
 The Referee rank is the first rank within the event staff team.
