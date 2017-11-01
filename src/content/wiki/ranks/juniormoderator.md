@@ -8,7 +8,7 @@ badge_color: ef9a9a
 symbol: ❖
 symbol_color: ff55ff
 discord_title: Junior Moderator
-discord_color: 
+discord_color: e71a7c
 abbreviation: Jr Mod
 groups: Staff. Moderation Staff
 ---
