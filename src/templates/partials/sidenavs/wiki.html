@@ -46,6 +46,7 @@
     <li><a href="https://raw.githubusercontent.com/MCResourcePile/addon-project/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Page source</a></li>
     <li><a href="https://github.com/MCResourcePile/addon-project/commits/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Page history</a></li>
     <li>Wiki Tools</li>
+    <li><a href="/revisions/addonproject">Recent changes</a></li>
     <% _.each(_.where(documents, {"category": "tools"}), function (page) { %>
     <li><a href="/addon-project/<%= page.dest.replace('.html', '') %>"><%= page.title %></a></li>
     <% }); %>
