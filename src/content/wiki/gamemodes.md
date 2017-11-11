@@ -35,6 +35,7 @@ This is a full list of gamemodes that can be played using PGM. Not all of these 
 - Scorebox
 - Arcade
 - Free-for-all
+- Infection
 
 #### Mutations
 
