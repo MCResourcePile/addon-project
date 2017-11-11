@@ -9,7 +9,7 @@ category: games
 
 Team Deathmatch, or more commonly known as TDM is a PGM gamemode with the objective to kill as many players from the opposing team before time runs out. Killing a player results in a point gained for your team, and as such the winning team will have more points at the end of the game. Traditionally, TDM maps only had two teams, yet there are a few maps with more than two teams.
 
-#### Variants of King of the Hill
+#### Variants of Team Deathmatch
 
 ##### Scorebox
 
