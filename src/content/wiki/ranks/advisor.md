@@ -21,4 +21,4 @@ Advisors serve as the tutors for the administration and staff team. They help th
 
 #### Requirements
 
-Advisor is not a rank that can be obtained by applying, but rather given to a user if they held a very important position within Overcast.
+Advisor is not a rank that can be obtained by applying, but rather given to a user if they held a very important position within the Overcast Network.
