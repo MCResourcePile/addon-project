@@ -4,11 +4,11 @@ description: About the Senior Moderator rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 
+badge_color: b71c1c
 symbol: ❖
-symbol_color: 
+symbol_color: aa0000
 discord_title: Senior Moderator
-discord_color: 
+discord_color: b71c1c
 abbreviation: Sr. Mod
 groups: Staff, Moderation Staff
 ---
