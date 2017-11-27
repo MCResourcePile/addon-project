@@ -5,7 +5,7 @@ template: wiki/default.html
 category: wiki
 ---
 
-There are a wide variety of commans available to all player, throughout the server. Not all commands are server wide; some only work in specific places!
+There are a wide variety of commans available to all players, throughout the server. Not all commands are server wide; some only work in specific places!
 
 #### Server-Wide Commands
 
