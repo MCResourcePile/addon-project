@@ -18,7 +18,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /unstuck - Free's a player from being stuck inside a block
 - /msg = /message = /dm = /pm = /tell = /whisper = /w (player) (message) - Sends a private message
 - /r = /reply (message) - Responds to the last private message sent
-- /g = /shout (message) - Joins Global chat. Global chat is automatically the default channel in Lobby
+- /g = /shout = ! (message) - Joins Global chat. Global chat is automatically the default channel in Lobby
 - /online = /players = /playerslist = /who - Shows current players online
 - /ping - Pong! (Tests Ping)
 - /seen = /find (player) - Shows the last time a player was in-game
