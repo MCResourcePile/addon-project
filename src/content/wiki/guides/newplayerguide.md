@@ -53,4 +53,4 @@ The fifth and final icon is the Navigation bar. This allows you to transport to 
 
 ![Inventory 7](../../assets/img/newplayerguide/inventory7.png)
 
-This is the server selection screen. It also shows how many people are in each server (there were 5 people in Beta when this photo was taken).
+This is the server selection screen. It also shows how many people are playing in each server (there were 5 people in Beta when this photo was taken).
