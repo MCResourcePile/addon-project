@@ -5,8 +5,8 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: 6a1b9a
-symbol: 
-symbol_color: 
+symbol: ❖
+symbol_color: aa00aa
 discord_title: Developer
 discord_color: 713ba2
 abbreviation: Dev

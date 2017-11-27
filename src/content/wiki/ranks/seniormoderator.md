@@ -9,7 +9,7 @@ symbol: ❖
 symbol_color: aa0000
 discord_title: Senior Moderator
 discord_color: b71c1c
-abbreviation: Sr. Mod
+abbreviation: Sr Mod
 groups: Staff, Moderation Staff
 ---
 

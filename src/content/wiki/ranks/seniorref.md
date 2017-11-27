@@ -6,7 +6,7 @@ category: ranks
 
 badge_color: 0097a7
 symbol: ❖
-symbol_color: 43690
+symbol_color: 00aaaa
 discord_title: Senior Referee
 discord_color: 1e6366
 abbreviation: Sr Ref
