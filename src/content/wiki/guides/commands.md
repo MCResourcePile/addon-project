@@ -28,6 +28,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /staff = /mods - Shows staff members online across all servers
 - /tp = /call (player) - Teleport's to player, only available to Observers on Beta
 - /help = /? (command) - Shows the in-game Help menu, but this guide is way more helpful.
+- /toggle (setting) - Will cycle through different options for the specific setting. 
 
 #### Lobby Specific Commands
 
