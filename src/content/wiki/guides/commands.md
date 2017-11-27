@@ -2,7 +2,7 @@
 title: Commands
 description: All available commands on the Stratus Network.
 template: wiki/default.html
-category: wiki
+category: guides
 ---
 
 There are a wide variety of commans available to all players, throughout the server. Not all commands are server wide; some only work in specific places!
