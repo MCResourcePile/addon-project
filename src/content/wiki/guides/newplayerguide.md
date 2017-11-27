@@ -37,8 +37,6 @@ The fourth item is the menu. Under the menu, you have access to the token menu, 
 
 [Tokens]((https://mcresourcepile.github.io/addon-project/wiki/tokens)) are special items that allow you to set a poll for the next map or for a mutation. Tokens can be purchased in the Stratus store or bought using droplets. Tokens can also be obtained by purchasing a [legacy rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/legacyranks). There is a chance of receiving either a SetNext or Mutation token at the end of every match. You will be alerted in chat if you are a lucky recipient. Those on the winning team, and the [MVP](https://mcresourcepile.github.io/addon-project/wiki/mvp), will automatically have a higher chance of receiving a token.
 
-You can configure your settings as well. These fall under three categories; Chat, Gameplay, and Miscellaneous. This is very similar to the /toggle command, yet much more organized and appealing to the eyes. 
-
 ![Inventory 3](../../assets/img/newplayerguide/inventory3.png)
 
 Upon clicking on the token icon, you are taken to this screen. Here, you can select a SetNext or Mutation token. SetNext tokens will allow you to set a poll for the next map, if the poll succeeds, the map will be played and the token consumed. The mutation poll functions in the same way, and will set a mutation in the next match if the poll succeeds. The emerald icon in the center will take you to the token shop.
@@ -46,6 +44,10 @@ Upon clicking on the token icon, you are taken to this screen. Here, you can sel
 ![Inventory 5](../../assets/img/newplayerguide/inventory5.png)
 
 This is the token shop where you can buy one, three, or five of either SetNext or Mutation tokens, consuming droplets. The ghast tear icon shows how many droplets you have, and the emerald displays the Stratus Shop link. You can go back to the previous screen by clicking on the red wool.
+
+![Inventory 4](../../assets/img/newplayerguide/inventory4.png)
+
+You can configure your settings as well. These fall under three categories; Chat, Gameplay, and Miscellaneous. This is very similar to the /toggle command, yet much more organized and appealing to the eyes. Be sure to check this out, it'll give you a unique, personalized experience!
 
 ![Hotbar 5](../../assets/img/newplayerguide/hotbar5.png)
 
