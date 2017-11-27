@@ -42,7 +42,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /mapinfo = /map Shows information about the current map
 - /maplist = /maps = /ml Shows a list of all maps on Stratus
 - /join = /jugar = /jouer = /spielen - Joins the game, if non-donor the team is automatically assigned, certain donors can select their own team
-- /obs = /observe = /spectate - Leaves the game. Will not work in player is in danger
+- /obs = /observe = /spectate - Leaves the game. Will not work if player is in danger
 - /report (player) (reason) - Reports player to staff members. Don't abuse
 - /rotation = /rot = /rota = /maprot = /maprotation - Shows the current rotation of maps
 - /t (message) - Joins team chat.
