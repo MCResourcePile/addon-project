@@ -4,6 +4,8 @@ description: About the Developer rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
+badge_color: 
+symbol: 
 symbol_color: aa00aa
 discord_title: Developer
 discord_color: 713ba2
