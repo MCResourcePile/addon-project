@@ -13,6 +13,12 @@ abbreviation: Sr. Mod
 groups: Staff, Moderation Staff
 ---
 
+Senior Moderators work together with Junior Moderators and Moderators to enforce the rules and maintain a friendly atmosphere. They represent the order of the community, are expected to uphold the rules and assist players. Senior Moderators are also responsible for the entire Moderation Staff.
+
 #### Description
 
+A Senior Moderator is similar to a regular Moderator, but with more responsibilities. They deal with escalated appeals, ban evasion, and forum moderation. They are also responsible for the choosing and training of Junior Moderators. 
+
 #### Requirements
+
+Moderators who have proven themselves to be valuable assets can be chosen by Admins and pre-existing Senior Moderators to become a Senior Moderator. 
