@@ -41,3 +41,5 @@ Twitch
 - Any Stratus-based streams must include the server IP “play.stratus.network” somewhere visible on the screen
 
 Exceptions may be made subject to administration's discretion
+
+Applications can be found [here](https://stratus.network/forums/59ac44fba2e3a9000100004c).

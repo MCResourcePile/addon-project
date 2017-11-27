@@ -13,7 +13,7 @@ abbreviation:
 groups: Content-based
 ---
 
-Internet Famous is a rank on the Stratus Network. It is one of the two ranks that is given by producing content. The other being Content Creator. It was announced and added on May 5th, 2017, at the exact same time as the Content Creator rank.
+Internet Famous is a rank on the Stratus Network. It is one of the two ranks that is given by producing content. The other being Content Creator. It was announced and added on May 5th, 2017, at the exact same time as the [Content Creator](https://mcresourcepile.github.io/addon-project/wiki/ranks/contentcreator) rank.
 
 #### Description
 
@@ -23,6 +23,8 @@ The Internet Famous rank is given to users who are well-known on social media pl
 
 - Over 10k Followers/Subscribers (This can be on any service, i.e. Twitter)
 - No content that breaks any Stratus Network rules
+
+Applications can be found [here](https://stratus.network/forums/59ac44fba2e3a9000100004c).
 
 #### Perks
 

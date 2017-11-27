@@ -17,7 +17,7 @@ Senior Moderators work together with Junior Moderators and Moderators to enforce
 
 #### Description
 
-A Senior Moderator is similar to a regular Moderator, but with more responsibilities. They deal with escalated appeals, ban evasion, and forum moderation. They are also responsible for the choosing and training of Junior Moderators. 
+A Senior Moderator is similar to a regular Moderator, but with more responsibilities. They deal with escalated appeals, ban evasion, and forum moderation. They are also responsible for the choosing and training of [Junior Moderators](https://mcresourcepile.github.io/addon-project/wiki/ranks/juniormoderator). 
 
 #### Requirements
 

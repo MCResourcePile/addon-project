@@ -21,4 +21,6 @@ Developers work on expanding the server by creating unique features for PGM, or 
 
 #### Requirements
 
-An important requirement is to know programming and/or markup languages. Users have to apply for the role as a developer. It is a prerequisite to be familiar with Git and Maven before applying. Understanding the PGM codebase is a key when applying. When applying, one must write an application as if they were applying for a job.
+An important requirement is to know programming and/or markup languages. Users have to apply for the role as a developer. It is a prerequisite to be familiar with Git and Maven before applying. Understanding the PGM codebase is a key when applying. When applying, one must write an application as if they were applying for a job. 
+
+Applications can be found [here](https://stratus.network/forums/59ac44fba2e3a9000100004c).
