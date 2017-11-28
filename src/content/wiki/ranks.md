@@ -34,10 +34,6 @@ Former Stratus Network staff ranks:
 - Alto
 - Cirro
 
-[Subscription Ranks](ranks/subscriptionranks)
-- Stratus+
-- Stratus-
-
 #### Content-based Ranks
 
 - [Content Creator](ranks/contentcreator)
