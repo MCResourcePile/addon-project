@@ -16,7 +16,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /tokens (player) - Shows current tokens of a player
 - /gm - Shows current gamemode
 - /unstuck - Free's a player from being stuck inside a block
-- /msg = /message = /dm = /pm = /tell = /whisper = /w (player) (message) - Sends a private message
+- /msg = /message = /dm = /pm = /tell = /whisper (player) (message) - Sends a private message
 - /r = /reply (message) - Responds to the last private message sent
 - /g = /shout = ! (message) - Joins Global chat. Global chat is automatically the default channel in Lobby
 - /online = /players = /playerslist = /who - Shows current players online
