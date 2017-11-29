@@ -15,7 +15,7 @@ In single monument maps, the monument is normally in the center of each teams si
 
 #### Trivia
 
-- Most monuments spawn with fences and slaps covering them, which are normally quickly removed upon the game starting
+- Most monuments spawn with fences and slabs covering them, which are normally quickly removed upon the game starting
 - Due to the small size of most monuments, DTM maps are generally smaller in comparison to larger [DTC](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtc) or [CTW](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/ctw) maps
 - [DTC](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtc) frequently collaborates with DTM to create a mix of the two maps, normally having one core in the center and having two monuments on opposite sides of the map
 
