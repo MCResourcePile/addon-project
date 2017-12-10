@@ -8,7 +8,7 @@ badge_color: 0097a7
 symbol: ❖
 symbol_color: 00aaaa
 discord_title: Senior Referee
-discord_color: 1e6366
+discord_color: 016666
 abbreviation: Sr Ref
 groups: Staff, Event Staff
 ---
@@ -16,5 +16,5 @@ groups: Staff, Event Staff
 #### Description
 
 
-
 #### Requirements
+
