@@ -42,8 +42,8 @@ There are a wide variety of commans available to all players, throughout the ser
 #### Beta Specific Commands 
 
 - /nextmap = /nm = /mn = /next = /mapnext - Shows the next map in the rotation
-- /mapinfo = /map Shows information about the current map
-- /maplist = /maps = /ml Shows a list of all maps on Stratus
+- /mapinfo = /map (map name) Shows information about the selected map. If no map is specified, then it's the current map
+- /maplist = /maps = /ml (-a <author>) (-g [<gamemode>](wiki/gamemodes)) (page number) Shows a list of all maps on Stratus, and can filter results based on author and gamemode
 - /join = /jugar = /jouer = /spielen - Joins the game, if non-donor the team is automatically assigned, players with legacy ranks can select their own team
 - /obs = /observe = /spectate - Leaves the game. Will not work if player is in danger
 - /report (player) (reason) - Reports player to staff members. Don't abuse
