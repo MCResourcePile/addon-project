@@ -21,8 +21,8 @@ Current Stratus Network staff ranks:
 - [Map Developer](ranks/mapdeveloper)
 - [Junior Moderator](ranks/juniormoderator)
 - [Senior Referee](ranks/seniorref)
-- [Referee](ranks/referee)
 - [Event Producer](ranks/eventproducer)
+- [Referee](ranks/referee)
 
 Former Stratus Network staff ranks:
 - [Marketing](ranks/marketing)
@@ -38,3 +38,13 @@ Former Stratus Network staff ranks:
 
 - [Content Creator](ranks/contentcreator)
 - [Internet Famous](ranks/internetfamous)
+
+#### Reward-base Ranks
+
+- [Nimbus](ranks/nimbus)
+
+#### Former Ranks
+
+Subscription Ranks
+- Stratus+
+- Stratus-

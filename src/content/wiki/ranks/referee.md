@@ -17,7 +17,7 @@ The Referee rank is the first rank within the event staff team.
 
 #### Description
 
-Referees are the bridging gap between the senior staff team and the community. As referees, they represent the network and are tasked to carry out various jobs. Primarily, they are tasked to handle their assigned teams during tournament day. Referees help direct teams to their corresponding assigned servers and assist teams when needed. Referees are an integral part of the events network and are lead by the senior events staff.
+Referees are the bridging gap between the senior event staff team and the community. As referees, they represent the network and are tasked to carry out various jobs. Primarily, they are tasked to handle their assigned teams during tournament day. Referees help direct teams to their corresponding assigned servers and assist teams when needed. Referees are an integral part of the events network and are lead by the senior events staff.
 
 #### Requirements
 
