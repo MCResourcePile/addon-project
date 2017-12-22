@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: 0097a7
-symbol: *
+symbol: "*" 
 symbol_color: 00aaaa
 discord_title: Event Producer
 discord_color: 0097a7
