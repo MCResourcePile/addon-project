@@ -4,11 +4,11 @@ description: About the Nimbus rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
-badge_color: 5a5f90
-symbol: *
-symbol_color: 0000aa
+badge_color: 
+symbol: 
+symbol_color: 
 discord_title: Nimbus
-discord_color: f6a738
-abbreviation: n/a
-groups: 
+discord_color: 
+abbreviation: 
+groups:
 ---
