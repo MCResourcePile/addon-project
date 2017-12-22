@@ -7,9 +7,9 @@ category: ranks
 badge_color: 5a5f90
 symbol: "*"
 symbol_color: 0000aa
-discord_title: n/a
+discord_title: not available
 discord_color: 
-abbreviation: n/a
+abbreviation: not available
 groups: Reward-based
 ---
 
