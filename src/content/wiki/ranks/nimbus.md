@@ -5,11 +5,11 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: 5a5f90
-symbol: *
+symbol: "*"
 symbol_color: 0000aa
-discord_title: na
+discord_title: n/a
 discord_color: 
-abbreviation: na
+abbreviation: n/a
 groups: Reward-based
 ---
 
