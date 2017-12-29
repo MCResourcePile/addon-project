@@ -23,27 +23,31 @@ Current Stratus Network staff ranks:
 - [Senior Referee](ranks/seniorref)
 - [Event Producer](ranks/eventproducer)
 - [Referee](ranks/referee)
-
-Former Stratus Network staff ranks:
 - [Marketing](ranks/marketing)
 
 #### Purchasable Ranks
 
-[Legacy Ranks](ranks/legacyranks)
-- Strato
-- Alto
-- Cirro
+Legacy Ranks
+- [Strato](ranks/strato)
+- [Alto](ranks/alto)
+- [Cirro](ranks/cirro)
 
-#### Content-based Ranks
+#### Miscellaneous Ranks
+
+- [Trial Rank](ranks/trialrank)
+
+##### Reward-base Ranks
+
+- [Nimbus](ranks/nimbus)
+- [Tournamnet Winner](ranks/tournamentwinner)
+- [Map Maker](ranks/mapmaker)
+
+##### Content-based Ranks
 
 - [Content Creator](ranks/contentcreator)
 - [Internet Famous](ranks/internetfamous)
 
-#### Reward-base Ranks
-
-- [Nimbus](ranks/nimbus)
-
-#### Former Ranks
+##### Former Ranks
 
 Subscription Ranks
 - Stratus+
