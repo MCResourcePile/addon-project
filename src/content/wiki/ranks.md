@@ -32,16 +32,22 @@ Current Stratus Network staff ranks:
 - Alto
 - Cirro
 
-#### Content-based Ranks
+#### Miscellaneous Ranks
+
+- [Trial Rank](ranks/trialrank)
+
+###### Reward-base Ranks
+
+- [Nimbus](ranks/nimbus)
+- [Tournamnet Winner](ranks/tournamentwinner)
+- [Map Maker](ranks/mapmaker)
+
+###### Content-based Ranks
 
 - [Content Creator](ranks/contentcreator)
 - [Internet Famous](ranks/internetfamous)
 
-#### Reward-base Ranks
-
-- [Nimbus](ranks/nimbus)
-
-#### Former Ranks
+##### Former Ranks
 
 Subscription Ranks
 - Stratus+
