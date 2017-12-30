@@ -23,7 +23,7 @@ This is the server selection screen. It also shows how many people are currently
 
 ![Lobby 3](../../assets/img/newplayerguide/lobby3.png)
 
-The second item is the gizmo menu. Gizmos can be purchase with droplets, and can customize your experience in the lobby.
+The second item is the gizmo menu. Gizmos can be purchase with droplets, which can customize your experience in the lobby.
 
 ![Lobby 4](../../assets/img/newplayerguide/lobby4.png)
 
@@ -35,7 +35,7 @@ If you have enough droplets, you can purchase a gizmo by clicking it. You will b
 
 ![Lobby 12](../../assets/img/newplayerguide/lobby12.png)
 
-The final item in your hotbar is your current equipped gizmo holder. It will be a glass pane unless you equip a gizmo, which can be done be selecting a purchased gizmo in the gizmo menu. When a gizmo resides in this place, you can use it. Most gizmos work by clicking another player, but feel free to explore all the abilities yourself!
+The final item in your hotbar is your current equipped gizmo holder. It will be a glass pane unless you equip a gizmo, which can be done be selecting a purchased gizmo in the gizmo menu. When a gizmo resides in this place, you can use it. Most gizmos work by clicking another player, but feel free to explore all the possible abilities yourself!
 
 
 #### Selection Menu
@@ -48,7 +48,7 @@ The first item is the World Edit compass. This compass will allow you to telepor
 
 ![Hotbar 2](../../assets/img/newplayerguide/hotbar2.png)
 
-The second item is team selector. Clicking this opens a menu that allows you to join the match, either by assigning you a random team or allows you to choose your own team. Keep in mind that choosing teams and joining full teams is only to available players with a [legacy rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/legacyranks), which can be purchased in the [Stratus shop](https://stratusnetwork.buycraft.net/). You can also join the match by typing /join. You can return to observer mode at any time in the match by typing /obs. This will take you out of the match. If you do decide that you want to continue playing, retype /join, and you will be sent back to spawn with a default kit.
+The second item is team selector. Clicking this opens a menu that allows you to join the match, either by assigning you a random team or allows you to choose your own team. Keep in mind that choosing teams and joining full teams is only to available players with a [premium rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/legacyranks), which can be purchased in the [Stratus shop](https://stratusnetwork.buycraft.net/). You can also join the match by typing /join. You can return to observer mode at any time in the match by typing /obs. This will take you out of the match. If you do decide that you want to continue playing, retype /join, and you will be sent back to spawn with a default kit.
 
 ![Inventory 1](../../assets/img/newplayerguide/inventory1.png)
 
