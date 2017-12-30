@@ -9,9 +9,38 @@ category: guides
 
 Hello and welcome to the Stratus Network! We are very glad you found us!. The Stratus Network is a PvP based server run on the [PGM](https://mcresourcepile.github.io/addon-project/wiki/pgm) plugin. The server provides unique, dynamic maps and [gamemodes](https://mcresourcepile.github.io/addon-project/wiki/gamemodes) created by the dedicated members of our awesome community.
 
+#### Lobby Menu
+
+When you join the server you'll be in lobby. Your hotbar will contain a selection of items that each serve a special purpose when clicked.
+
+![Lobby 1](../../assets/img/newplayerguide/lobby1.png)
+
+The first item in your hotbar is the navigation bar. This will allow you to teleport to all the available servers.
+
+![Lobby 2](../../assets/img/newplayerguide/lobby2.png)
+
+This is the server selection screen. It also shows how many people are currently online in each server. Simply click on any server and you'll be teleported there.
+
+![Lobby 3](../../assets/img/newplayerguide/lobby3.png)
+
+The second item is the gizmo menu. Gizmos can be purchase with droplets, and can customize your experience in the lobby.
+
+![Lobby 4](../../assets/img/newplayerguide/lobby4.png)
+
+These are all the available gizmos. You can check your total amount of droplets by hovering over the ghast tear.
+
+![Lobby 5](../../assets/img/newplayerguide/lobby5.png)
+
+If you have enough droplets, you can purchase a gizmo by clicking it. You will be directed to the shop menu, where you'll have to confirm your purchase. Click the diamonds for yes, and the redstone blocks for no.
+
+![Lobby 12](../../assets/img/newplayerguide/lobby12.png)
+
+The final item in your hotbar is your current equipped gizmo holder. It will be a glass pane unless you equip a gizmo, which can be done be selecting a purchased gizmo in the gizmo menu. When a gizmo resides in this place, you can use it. Most gizmos work by clicking another player, but feel free to explore all the abilities yourself!
+
+
 #### Selection Menu
 
-When you join the server, your hotbar will contain a selection of items that each serve a special purpose when clicked.
+Once you select a server to join, there will once again be a bunch of item in your hotbar. Some of these items serve similar purposes as the ones in the lobby, but there's a bunch of new ones as well.
 
 ![Hotbar 1](../../assets/img/newplayerguide/hotbar1.png)
 
@@ -51,8 +80,6 @@ You can also configure your settings under the main menu. These fall under three
 
 ![Hotbar 5](../../assets/img/newplayerguide/hotbar5.png)
 
-The fifth and final icon is the navigation bar. This allows you to transport to other servers or the lobby. 
+The fifth and final icon is the navigation bar. This has the same functions as the one found in the lobby; it shows all the available servers plus the lobby, and allows you to teleport whichever you desire.
 
-![Inventory 7](../../assets/img/newplayerguide/inventory7.png)
 
-This is the server selection screen. It also shows how many people are in each server (ex: there were 5 people in Beta when this photo was taken).
