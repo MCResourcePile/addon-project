@@ -7,9 +7,9 @@ category: ranks
 badge_color: 5a5f90
 symbol: "*"
 symbol_color: 0000aa
-discord_title: not available
+discord_title:
 discord_color: 
-abbreviation: not available
+abbreviation: 
 groups: Reward-based
 ---
 
@@ -17,7 +17,7 @@ This rank is given to players who complete special Stratus events or win prizes.
 
 #### Description
 
-The Nimbus rank is very similar to the [Alto rank](ranks/alto). Players with this rank can fly in the lobby, choose their own team and a 2.0x droplet multiplier, although are not allowed to choose their own teams. Unlike the Alto ranks, players are also given 3 set-next [tokens](https://mcresourcepile.github.io/addon-project/wiki/guides/(https://mcresourcepile.github.io/addon-project/wiki/tokens) and 1 mutation token.
+The Nimbus rank is very similar to the [Alto rank](ranks/alto). Players with this rank can fly in the lobby, choose their own team and a 2.0x droplet multiplier, although are not allowed to choose their own teams. Unlike the Alto ranks, players are also given 3 set-next [tokens](https://mcresourcepile.github.io/addon-project/wiki/guides/(https://mcresourcepile.github.io/addon-project/wiki/tokens) and 1 mutation token. This rank only lasts two weeks.
 
 #### Usage
 
