@@ -13,7 +13,7 @@ abbreviation:
 groups: Miscellaneous
 ---
 
-The trial rank is given to Avicus donators upon application. This rank provides an incentive for Avicus players to play on Stratus and to buy a rank on Stratus
+The trial rank is given to [Avicus](https://avicus.net/) donators upon application. This rank provides an incentive for Avicus players to play on Stratus and to buy a rank on Stratus.
 
 #### Description
 

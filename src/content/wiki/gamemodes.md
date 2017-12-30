@@ -19,6 +19,10 @@ The Stratus Network uses PGM, a plugin originally developed for the Overcast Net
 - Deathmatch
     - [Team Deathmatch](gamemodes/tdm)
 
+#### New Gamemodes
+
+- [Payload](gamemodes/payload)
+
 #### Full List of Gamemodes
 
 This is a full list of gamemodes that can be played using PGM. Not all of these gamemodes are fully developed, and many are not regularly played.
@@ -36,6 +40,7 @@ This is a full list of gamemodes that can be played using PGM. Not all of these 
 - Arcade
 - Free-for-all
 - Infection
+- Payload
 
 #### Mutations
 
