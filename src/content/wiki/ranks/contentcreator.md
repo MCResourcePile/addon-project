@@ -10,7 +10,7 @@ symbol_color: 55ff55
 discord_title: Content Creator
 discord_color: 187d00
 abbreviation: 
-groups: Content-based
+groups: Content-based, Miscellaneous
 ---
 
 Content Creator is a rank on the Stratus Network. It is one two ranks that is given by producing content, the other being Internet Famous. It was announced and added in May 5th 2017 at the same time as the [Internet Famous](internetfamous) rank.

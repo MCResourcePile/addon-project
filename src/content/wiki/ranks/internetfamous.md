@@ -10,7 +10,7 @@ symbol_color: 00aa00
 discord_title: Internet Famous
 discord_color: 0d7b06
 abbreviation: 
-groups: Content-based
+groups: Content-based, Miscellaneous
 ---
 
 Internet Famous is a rank on the Stratus Network. It is one of the two ranks that is given by producing content. The other being Content Creator. It was announced and added on May 5th, 2017, at the exact same time as the [Content Creator](https://mcresourcepile.github.io/addon-project/wiki/ranks/contentcreator) rank.

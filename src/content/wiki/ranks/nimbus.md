@@ -10,7 +10,7 @@ symbol_color: 0000aa
 discord_title:
 discord_color: 
 abbreviation: 
-groups: Reward-based
+groups: Reward-based, Miscellaneous
 ---
 
 This rank is given to players who complete special Stratus events or win prizes.

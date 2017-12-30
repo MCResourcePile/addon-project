@@ -28,10 +28,10 @@ Current Stratus Network staff ranks:
 
 #### Purchasable Ranks
 
-[Premium Ranks](ranks/premiumranks)
-- Strato
-- Alto
-- Cirro
+Premium Ranks
+- [Strato](ranks/strato)
+- [Alto](ranks/alto)
+- [Cirro](ranks/cirro)
 
 #### Miscellaneous Ranks
 
@@ -51,5 +51,5 @@ Current Stratus Network staff ranks:
 ##### Former Ranks
 
 Subscription Ranks
-- Stratus+
-- Stratus-
+- [Stratus+](ranks/stratusplus)
+- [Stratus-](ranks/stratusminus)

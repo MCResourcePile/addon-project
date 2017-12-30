@@ -10,7 +10,7 @@ symbol_color: 5555FF
 discord_title: 
 discord_color: 
 abbreviation: 
-groups: Reward-based
+groups: Reward-based, Miscellaneous
 ---
 
 The Map Maker rank is given to the Players who created a map that is being played at that moment.

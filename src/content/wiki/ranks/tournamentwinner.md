@@ -10,7 +10,7 @@ symbol_color: 00aaaa
 discord_title: Quad Before Christmas Winner
 discord_color: ffdb00
 abbreviation: Tourney Winner
-groups: Reward-based
+groups: Reward-based, Miscellaneous
 ---
 
 This rank's name is changed after every tourney.
