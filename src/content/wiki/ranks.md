@@ -23,6 +23,7 @@ Current Stratus Network staff ranks:
 - [Junior Moderator](ranks/juniormoderator)
 - [Senior Referee](ranks/seniorref)
 - [Event Producer](ranks/eventproducer)
+- [Official](ranks/official)
 - [Referee](ranks/referee)
 
 #### Purchasable Ranks
