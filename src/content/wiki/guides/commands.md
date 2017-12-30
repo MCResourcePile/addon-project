@@ -12,6 +12,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /about = /icanhasbukkit = /ver = /version (plugin) - Shows information regarding server plugins
 - /plugins = /pl - Shows all plugins on the server
 - /droplets = /drp (player) - Shows how many droplets a player has
+- /friends = /frs (page number) - Shows what servers your friends are on
 - /stats (player) - Shows player stats
 - /tokens (player) - Shows current tokens of a player
 - /gm - Shows current gamemode
