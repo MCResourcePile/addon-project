@@ -14,7 +14,9 @@ Getting into PGM gamemodes can be complex. Below are some guides that can help y
 - [Ranks](https://stratus.network/forums/topics/59b70721a2e3a90001000130)
 - [Internet Famous & Content Creator](https://stratus.network/forums/topics/59b70712a2e3a90001000129)
 - [How do I report a player?](https://stratus.network/forums/topics/59b706eda2e3a9000100011d)
+- [XML Documentation](https://docs.stratus.network/)
 
 #### Wiki Guides  
-- [Commands](https://mcresourcepile.github.io/addon-project/wiki/guides/commands)
 - [New Player Guide](https://mcresourcepile.github.io/addon-project/wiki/guides/newplayerguide)
+- [Introduction to Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo)
+- [Commands](https://mcresourcepile.github.io/addon-project/wiki/guides/commands)
