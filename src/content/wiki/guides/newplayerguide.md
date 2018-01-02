@@ -23,7 +23,7 @@ This is the server selection screen. It also shows how many people are currently
 
 ![Lobby 3](../../assets/img/newplayerguide/lobby3.png)
 
-The second item is the gizmo menu. Gizmos can be purchase with droplets, which can customize your experience in the lobby.
+The second item is the gizmo menu. [Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo) can be purchase with droplets, which can customize your experience in the lobby.
 
 ![Lobby 4](../../assets/img/newplayerguide/lobby4.png)
 
