@@ -11,7 +11,7 @@ Mutations are a PGM feature which may be used to modify elements of a single mat
 
 This section lists mutations which are granted through kits.
 
-|Icon|Mutation|Description|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
+|Icon|Mutation|Effect|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
 |-----|-----|-----|:-----:|
 |![Armor](/addon-project/assets/img/mutations/diamond_chestplate.png)|Armor|Full diamond armor and a diamond sword. Pack a punch!|0|Y|
 |![Boat](/addon-project/assets/img/mutations/oak_boat.png)|Boat|Gives players a boat that can float anywhere. Only works with 1.9+ versions.|0|Y|
@@ -30,7 +30,7 @@ This section lists mutations which are granted through kits.
 
 Mutations that give players different effects.
 
-|Icon|Mutation|Description|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
+|Icon|Mutation|Effect|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
 |-----|-----|-----|:-----:|
 |![Glow](/addon-project/assets/img/mutations/glowstone_dust.png)|Glow|Applies the glow effect and allows you to see players (teammates and enemies) through walls.|0|N|
 |![Hardcore](/addon-project/assets/img/mutations/apple_golden.png)|Hardcore|Features a similar play style to that of the Hardcore mode in vanilla. Throughout this mutation, no natural regeneration can occur. Regenerations from kill kits and woolroom items however, are allowed. It is usually used in conjunction with the Blitz mutation.|0|Y|
@@ -41,7 +41,7 @@ Mutations that give players different effects.
 
 This mutation lists mutations which victimizes players.
 
-|Icon|Mutation|Description|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
+|Icon|Mutation|Effect|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
 |-----|-----|-----|:-----:|
 |![Apocalypse](/addon-project/assets/img/mutations/nether_star.png)|Apocalypse|Turns time to night and makes hostile mobs spawn uncontrollably. From Ghasts to Creepers, to Zombies, hordes of enemies will be thrown your way.|0|Y|
 |![Bomber](/addon-project/assets/img/mutations/tnt.png)|Bomber|"Rocket barrage incoming!" Features dropping TNT, and reigning (and raining) terror on the players. Run and hide while you can!|0|Y|
@@ -51,7 +51,7 @@ This mutation lists mutations which victimizes players.
 
 This mutation lists uncategorized mutations.
 
-|Icon|Mutation|Description|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
+|Icon|Mutation|Effect|<span title="Chance this mutation will be randomly enabled">C</span>|<span title="Players can use Mutation Tokens to enable this mutation">T</span>|
 |-----|-----|-----|:-----:|
 |![Blitz](/addon-project/assets/img/mutations/iron_bars.png)|Blitz|Limited lives assigned per player, typically between 1 to 3. Occasionally (25% chance), it may also limit lives per team (usually until all players in the team died, thus giving 1 life per player).|0|N|
 |![Rage](/addon-project/assets/img/mutations/skeleton_skull.png)|Rage|One hit kills with a predefined kit, usually a sword and a bow. A player dies instantly when hit by these weapons.|0|N| 
