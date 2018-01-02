@@ -6,7 +6,7 @@ category: ranks
 
 badge_color:
 symbol: ★
-symbol_color: 5555FF
+symbol_color: 55ffff
 discord_title: 
 discord_color: 
 abbreviation: 
