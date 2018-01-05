@@ -17,7 +17,7 @@ Strato is the lowest tier among the Premium ranks.
 
 #### Description 
 
-Strato is a permanent purchasable rank, that can be bought in the Stratus Network [shop](https://stratusnetwork.buycraft.net/). Because it the lowest of all the premium ranks, any player with the Strato rank will get higher tier ranks; [Alto](ranks/alto) and [Cirro](ranks/cirro), at a discounted price. Premium ranks along with staff members, serve as the server's beta testers for projects.
+Strato is a permanent purchasable rank, that can be bought in the Stratus Network [shop](https://stratusnetwork.buycraft.net/). Because it the lowest of all the premium ranks, any player with the Strato rank will get higher tier ranks; [Alto](ranks/alto) and [Cirro](ranks/cirro), at a discounted price. Premium ranks, along with staff members, serve as the server's beta testers for projects.
 
 #### Perks
 
