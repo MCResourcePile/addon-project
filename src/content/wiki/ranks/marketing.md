@@ -1,6 +1,6 @@
 ---
-title: 
-description: About the rank on the Stratus Network
+title: Marketing
+description: About the Marketing rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
