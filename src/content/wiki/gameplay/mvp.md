@@ -1,7 +1,7 @@
 ---
 title: MVP
 description: About MVP on the Stratus Network
-template: wiki/rank.html
+template: wiki/default.html
 category: gameplay
 ---
 
