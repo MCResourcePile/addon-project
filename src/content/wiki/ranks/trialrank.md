@@ -1,6 +1,6 @@
 ---
 title: Trial Rank
-description: About the Trail Rank rank on the Stratus Network
+description: About the Trail Rank on the Stratus Network
 template: wiki/rank.html
 category: ranks
 
