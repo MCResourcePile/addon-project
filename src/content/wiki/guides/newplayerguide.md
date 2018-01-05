@@ -23,7 +23,7 @@ This is the server selection screen. It also shows how many people are currently
 
 ![Lobby 3](../../assets/img/newplayerguide/lobby3.png)
 
-The second item is the gizmo menu. [Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo) can be purchase with droplets, which can customize your experience in the lobby.
+The second item is the gizmo menu. [Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo) can be purchase with [droplets](gameplay/droplets), which can customize your experience in the lobby.
 
 ![Lobby 4](../../assets/img/newplayerguide/lobby4.png)
 
@@ -48,7 +48,7 @@ The first item is the World Edit compass. This compass will allow you to telepor
 
 ![Hotbar 2](../../assets/img/newplayerguide/hotbar2.png)
 
-The second item is team selector. Clicking this opens a menu that allows you to join the match, either by assigning you a random team or allows you to choose your own team. Keep in mind that choosing teams and joining full teams is only to available players with a [premium rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/legacyranks), which can be purchased in the [Stratus shop](https://stratusnetwork.buycraft.net/). You can also join the match by typing /join. You can return to observer mode at any time in the match by typing /obs. This will take you out of the match. If you do decide that you want to continue playing, retype /join, and you will be sent back to spawn with a default kit.
+The second item is team selector. Clicking this opens a menu that allows you to join the match, either by assigning you a random team or allows you to choose your own team. Keep in mind that choosing teams and joining full teams is only to available players with a [premium rank](https://mcresourcepile.github.io/addon-project/wiki/ranks), which can be purchased in the [Stratus shop](https://stratusnetwork.buycraft.net/). You can also join the match by typing /join. You can return to observer mode at any time in the match by typing /obs. This will take you out of the match. If you do decide that you want to continue playing, retype /join, and you will be sent back to spawn with a default kit.
 
 ![Inventory 1](../../assets/img/newplayerguide/inventory1.png)
 
@@ -64,7 +64,7 @@ The fourth item is the main menu. Under the menu, you have access to the token m
 
 ![Inventory 2](../../assets/img/newplayerguide/inventory2.png)
 
-[Tokens]((https://mcresourcepile.github.io/addon-project/wiki/tokens) are special items that allow you to set a poll for a map or for a mutation to be played in the next match. Tokens can be purchased in the Stratus shop or bought using droplets. Tokens can also be obtained by purchasing a legacy rank. There is also a chance of receiving a SetNext or Mutation token at the end of every match. You will be alerted in chat if you are a lucky recipient. Those on the winning team, and the [MVP](https://mcresourcepile.github.io/addon-project/wiki/mvp), will automatically have a higher chance of receiving a token.
+[Tokens](gameplay/tokens) are special items that allow you to set a poll for a map or for a [mutation](gameplay/mutations) to be played in the next match. Tokens can be purchased in the Stratus shop or bought using droplets. Tokens can also be obtained by purchasing a legacy rank. There is also a chance of receiving a SetNext or Mutation token at the end of every match. You will be alerted in chat if you are a lucky recipient. Those on the winning team, and the [MVP](gameplay/mvp), will automatically have a higher chance of receiving a token.
 
 ![Inventory 3](../../assets/img/newplayerguide/inventory3.png)
 

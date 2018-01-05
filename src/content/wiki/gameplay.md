@@ -14,5 +14,5 @@ This page is not complete. Please help contribute to this page <a href="https://
 
 #### Player Altering
 
-- [MVP](gamplay/mvp)
+- [MVP](gameplay/mvp)
 - [Droplets](gameplay/droplets)

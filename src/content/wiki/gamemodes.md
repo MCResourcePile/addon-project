@@ -44,4 +44,4 @@ This is a full list of gamemodes that can be played using PGM. Not all of these 
 
 #### Mutations
 
-[Mutations](gamemodes/mutations) are alterations to a PGM game that can be applied before and during a PGM game.
+[Mutations](gameplay/mutations) are alterations to a PGM game that can be applied before and during a PGM game.

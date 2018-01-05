@@ -11,12 +11,12 @@ There are a wide variety of commans available to all players, throughout the ser
 
 - /about = /icanhasbukkit = /ver = /version (plugin) - Shows information regarding server plugins
 - /plugins = /pl - Shows all plugins on the server
-- /droplets = /drp (player) - Shows how many droplets a player has
+- /droplets = /drp (player) - Shows how many [droplets](gameplay/droplets) a player has
 - /friends = /frs (page number) - Shows what servers your friends are on
 - /stats (player) - Shows player stats
-- /tokens (player) - Shows current tokens of a player
+- /tokens (player) - Shows current [tokens](gameplay/tokens) of a player
 - /gm - Shows current gamemode
-- /unstuck = /! - Free's a player from being stuck inside a block
+- /unstuck = /! - Free yourself from being stuck inside a block
 - /msg = /message = /dm = /pm = /tell = /whisper (player) (message) - Sends a private message
 - /r = /reply (message) - Responds to the last private message sent
 - /g = /shout = ! (message) - Joins Global chat. Global chat is automatically the default channel in Lobby
@@ -50,7 +50,7 @@ There are a wide variety of commans available to all players, throughout the ser
 - /report (player) (reason) - Reports player to staff members. Don't abuse
 - /rotation = /rot = /rota = /maprot = /maprotation - Shows the current rotation of maps
 - /t (message) - Joins team chat.
-- /poll (next/mt) (map/mutation) Uses a token to set a map or mutation for the next match
+- /poll (next/mt) (map/mutation) Uses a token to set a map or [mutation](gameplay/mutation) for the next match
 - /vote (yes:no) - Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member
 - /tnt (resest:revoke:info) - Controls your tnt license; your ability to use tnt
 - /class = /cl = /c = /selectclass = /klasse - Selects or views the your class

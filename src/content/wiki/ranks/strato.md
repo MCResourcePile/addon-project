@@ -25,10 +25,10 @@ Strato provides the user with various perks;
 
 - Dark gray star in-game
 - Join full teams
-- Starter Mutation Tokens (1)
-- Starter Setnext Tokens (1)
+- Starter [Mutation Tokens](gameplay/tokens) (1)
+- Starter [Setnext Tokens](gameplay/tokens) (1)
 - Donator rank in Discord
 - Control music bot in Discord
-- 1.5x Droplet Multiplier
+- 1.5x [Droplet](gameplay/droplets) Multiplier
 - Donor only beta access
 - Lasts indefinitley

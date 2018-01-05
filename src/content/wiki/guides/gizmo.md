@@ -5,7 +5,7 @@ template: wiki/default.html
 category: guides
 ---
 
-Gizmos are only accessible to purchase and use in the lobby. They affect your experience in the lobby, whether it be by chnaging the players around or giving you unique items! Gizmos are purchased with droplets, which can be acquired in-game. 
+Gizmos are only accessible to purchase and use in the lobby. They affect your experience in the lobby, whether it be by chnaging the players around or giving you unique items! Gizmos are purchased with [droplets](gameplay/droplets), which can be acquired in-game. 
 
 |Icon|Gizmo|Description|Price|
 |-----|-----|-----|-----|

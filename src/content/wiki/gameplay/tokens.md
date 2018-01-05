@@ -5,7 +5,7 @@ template: wiki/default.html
 category: gameplay
 ---
 
-Tokens exist on the Stratus Network in 2 forms, and can be obtained either in-game by playing, or via the shop by either buying a rank or buying them separetly.
+Tokens exist on the Stratus Network in 2 forms, and can be obtained either in-game by playing, or via the [shop](https://stratusnetwork.buycraft.net/) by either buying them with rank or separetly.
 
 #### SetNext Tokens
 
@@ -14,4 +14,4 @@ SetNext tokens are the first type of tokens, they can be used to suggest maps th
 
 #### Mutation Tokens
 
-Mutation tokens are the second type of tokens, they can be used to suggest mutations for the next map. To use a Mutation token you can type `/poll mutation <mutation name>` in chat. Like SetNext tokens, a poll will appear. If your suggestion gets accepted, the mutation will activate on the next map. For a list of mutations you can either look at our mutation page, or do `/mt list in-game`.
+Mutation tokens are the second type of tokens, they can be used to suggest [mutations](gameplay/mutations) for the next map. To use a Mutation token you can type `/poll mutation <mutation name>` in chat. Like SetNext tokens, a poll will appear. If your suggestion gets accepted, the mutation will activate on the next map. For a list of mutations you can either look at our mutation page, or do `/mt list in-game`.
