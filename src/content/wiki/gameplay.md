@@ -1,7 +1,7 @@
 ---
 title: Gameplay Mechanics
 description: About the gameplay mechanics on the Stratus Network
-template: wiki/rank.html
+template: wiki/default.html
 category: wiki
 ---
 
