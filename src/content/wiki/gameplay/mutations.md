@@ -2,7 +2,7 @@
 title: Mutations
 description: The selection of mutations that Stratus offers
 template: wiki/default.html
-category: games
+category: gameplay
 ---
 
 Mutations are a PGM feature which may be used to modify elements of a single match. Some examples of mutations are the Armor mutation, which gives players diamond armor, and the Health mutation, which gives players 10|Y extra hearts of health. Mutations only last for a single match, and may be enabled or disabled by staff members. Mutations can also be enabled through the use of a Mutation [Token](gameplay/tokens), which will create a poll for players to vote and decide whether or not to add a specific Mutation.
