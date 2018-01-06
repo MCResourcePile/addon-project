@@ -35,10 +35,10 @@ There are a wide variety of commans available to all players, throughout the ser
 
 #### Lobby Specific Commands
 
-- /j = /jumpto - Teleports to the block in sight. In Beta only available to Observers
-- /thru - Teleport's through blocks if safe land is available on the other side. In Beta only available to Observers
-- /ascend = /asc - Ascends up a floor. In Beta only available to Observers
-- /descend = /desc - Descends down a floor. In Beta only available to Observers
+- `/j = /jumpto` - Teleports to the block in sight. In Beta only available to Observers
+- `/thru` - Teleport's through blocks if safe land is available on the other side. In Beta only available to Observers
+- `/ascend` = /asc - Ascends up a floor. In Beta only available to Observers
+- `/descend` = /desc - Descends down a floor. In Beta only available to Observers
 
 #### Beta Specific Commands 
 
