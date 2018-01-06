@@ -9,8 +9,6 @@ There are a wide variety of commans available to all players, throughout the ser
 
 #### Server-Wide Commands
 
-- /about = /icanhasbukkit = /ver = /version (plugin) - Shows information regarding server plugins
-- /plugins = /pl - Shows all plugins on the server
 - /droplets = /drp (player) - Shows how many [droplets](gameplay/droplets) a player has
 - /friends = /frs (page number) - Shows what servers your friends are on
 - /stats (player) - Shows player stats
@@ -31,7 +29,6 @@ There are a wide variety of commans available to all players, throughout the ser
 - /tp = /call (player) - Teleport's to player, only available to Observers on Beta
 - /help = /? (command) - Shows the in-game Help menu, but this guide is way more helpful
 - /toggle (setting) - Will cycle through different options for the specific setting
-- /enchanments = /listenchant = /lsenchant - Shows all possible enchantments
 
 #### Lobby Specific Commands
 
