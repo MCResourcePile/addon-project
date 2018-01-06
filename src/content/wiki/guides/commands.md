@@ -9,49 +9,56 @@ There are a wide variety of commans available to all players, throughout the ser
 
 #### Server-Wide Commands
 
-- /droplets = /drp (player) - Shows how many [droplets](gameplay/droplets) a player has
-- /friends = /frs (page number) - Shows what servers your friends are on
-- /stats (player) - Shows player stats
-- /tokens (player) - Shows current [tokens](gameplay/tokens) of a player
-- /gm - Shows current gamemode
-- /unstuck = /! - Free yourself from being stuck inside a block
-- /msg = /message = /dm = /pm = /tell = /whisper (player) (message) - Sends a private message
-- /r = /reply (message) - Responds to the last private message sent
-- /g = /shout = ! (message) - Joins Global chat. Global chat is automatically the default channel in Lobby
-- /online = /players = /playerslist = /who - Shows current players online
-- /lookup = /l (player) - Shows all punishments a player has
-- /ping - Pong! (Tests Ping)
-- /seen = /find (player) - Shows the last time a player was in-game
-- /server = /srv (world) - Show's current server or allows players to teleport to a different server
-- /servers = /srvs - Shows a list of all available servers
-- /hub = /lobby - Teleports player back to Lobby
-- /staff = /mods - Shows staff members online across all servers
-- /tp = /call (player) - Teleport's to player, only available to Observers on Beta
-- /help = /? (command) - Shows the in-game Help menu, but this guide is way more helpful
-- /toggle (setting) - Will cycle through different options for the specific setting
+|Command|Description|Alias|
+|-----|-----|-----|
+|`/droplets [player]`|Shows how many [droplets](gameplay/droplets) a player has|`/drp`|
+|`/friends [page number]`|Shows what servers your friends are on|`/frs`|
+|`/stats [player]`|Shows player stats||
+|`/tokens [player]`|Shows current [tokens](gameplay/tokens) of a player||
+|`/gm`|Shows current gamemode||
+|`/unstuck`|Free yourself from being stuck inside a block|`/!`|
+|`/msg <player> <message>`|Sends a private message|`/message` = `/dm` = `/pm` = `/tell` = `/whisper`|
+|`/reply <message>`|Responds to the last private message sent|`/r`|
+|`/shout [message]`|Joins Global chat. Global chat is automatically the default channel in Lobby|`/g` = `!`|
+|`/playerslist`|Shows current players online|`/online` = `/who`|
+|`/lookup <player>`|Shows all punishments a player has|`/l`|
+|`/ping`|Pong! (Tests Ping)||
+|`/seen <player>`|Shows the last time a player was in-game|`/find`|
+|`/server [world]`|Show's current server or allows players to teleport to a different server|`/srv`|
+|`/servers`|Shows a list of all available servers|`/srvs`|
+|`/hub`|Teleports player back to Lobby|`/lobby`|
+|`/staff`|Shows staff members online across all servers|`/mods`|
+|`/tp <player>`|Teleport to player||
+|`/toggle <setting>`|Will cycle through different options for the specific setting||
+|`/help <command>`|Shows the in-game Help menu, but this guide is way more helpful|`/?`|
+
 
 #### Lobby Specific Commands
 
-- `/j = /jumpto` - Teleports to the block in sight. In Beta only available to Observers
-- `/thru` - Teleport's through blocks if safe land is available on the other side. In Beta only available to Observers
-- `/ascend` = /asc - Ascends up a floor. In Beta only available to Observers
-- `/descend` = /desc - Descends down a floor. In Beta only available to Observers
+|Command|Description|Alias|
+|-----|-----|-----|
+|`/jumpto`|Teleports to the block in sight. Only available to Observers in other servers|`/j`|
+|`/thru`|Teleport's through blocks if safe land is available on the other side. Only available to Observers in other servers||
+|`/ascend`|Ascends up a floor. Only available to Observers in other servers|`/asc`|
+|`/descend`|Descends down a floor. Only available to Observers in other servers|`/desc`|
 
 #### Beta Specific Commands 
 
-- /nextmap = /nm = /mn = /next = /mapnext - Shows the next map in the rotation
-- /mapinfo = /map (map name) Shows information about the selected map. If no map is specified, then it's the current map
-- /maplist = /maps = /ml (-a author) (-g [gamemode](https://mcresourcepile.github.io/addon-project/wiki/gamemodes)) (page number) Shows a list of all maps on Stratus, and can filter results based on author and gamemode
-- /join = /jugar = /jouer = /spielen - Joins the game, if non-donor the team is automatically assigned, players with legacy ranks can select their own team
-- /obs = /observe = /spectate = /leave - Leaves the game. Will not work if player is in danger
-- /report (player) (reason) - Reports player to staff members. Don't abuse
-- /rotation = /rot = /rota = /maprot = /maprotation - Shows the current rotation of maps
-- /t (message) - Joins team chat.
-- /poll (next/mt) (map/mutation) Uses a token to set a map or [mutation](gameplay/mutation) for the next match
-- /vote (yes:no) - Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member
-- /tnt (resest:revoke:info) - Controls your tnt license; your ability to use tnt
-- /class = /cl = /c = /selectclass = /klasse - Selects or views the your class
-- /classlist = /listclasses = /classes = /cls - Lists all avaliable classes
-- /inventory = /inv = /vi (player) - Opens a player's inventory. Similar to right-clicking on that player
-- /matchinfo = /match - Shows information about the current map
-- /ratemap = /rate (1:2:3:4:5) - Rates the current map
+|Command|Description|Alias|
+|-----|-----|-----|
+|`/mapnext`|Shows the next map in the rotation|`/nextmap` = `/nm` = `/mn` = `/next`|
+|`/mapinfo [map name]`|Shows information about the selected map. If no map is specified, then it shows info about the current map|`/map`|
+|`/maplist [-a author] [-g [gamemode] [page number]`|Shows a list of all maps on Stratus, and can filter results based on author and [gamemode](https://mcresourcepile.github.io/addon-project/wiki/gamemodes)|`/maps` = `/ml`|
+|`/join`|Joins the game, if non-donor then the team is automatically assigned, while players with [premium ranks](wiki/ranks) can select their own team|`/jugar` = `/jouer` = `/spielen`| 
+|`/observe`|Leaves the game. Will not work if player is in danger|`/obs` = `/spectate` = `/leave`|
+|`/report <player> <reason>`|Reports player to staff members. Don't abuse||
+|`/rotation [page number]`|Shows the current rotation of maps|`/rot` = `/rota` = `/maprot` = `/maprotation`|
+|`/t [message]`|Talk in team chat||
+|`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](gameplay/mutation) for the next match||
+|`/vote [yes:no]`|Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member too||
+|`/tnt [resest:revoke:info]`|Controls your tnt license; your ability to use tnt||
+|`/class [class name]`|Selects or views the your class|`/cl` = `/c` = `/selectclass` = `/klasse`|
+|`/classlist`|Lists all avaliable classes|`/listclasses` = `/classes` = `/cls`| 
+|`/inventory <player>`|Opens a player's inventory. Similar to right-clicking on said player|`/inv` = `/vi`|
+|`/matchinfo`|Shows information about the current map|`/match`|
+|`/rate (1:2:3:4:5)`|Rates the current map, gives feedback to map creators|`/ratemap`|
