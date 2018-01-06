@@ -42,13 +42,13 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/ascend`|Ascends up a floor. Only available to Observers in other servers|`/asc`|
 |`/descend`|Descends down a floor. Only available to Observers in other servers|`/desc`|
 
-#### Beta Specific Commands 
+#### Non-Lobby Specific Commands 
 
 |Command|Description|Alias|
 |-----|-----|-----|
 |`/mapnext`|Shows the next map in the rotation|`/nextmap` = `/nm` = `/mn` = `/next`|
 |`/mapinfo [map name]`|Shows information about the selected map. If no map is specified, then it shows info about the current map|`/map`|
-|`/maplist [-a author] [-g [gamemode] [page number]`|Shows a list of all maps on Stratus, and can filter results based on author and [gamemode](https://mcresourcepile.github.io/addon-project/wiki/gamemodes)|`/maps` = `/ml`|
+|`/maplist [-a author] [-g gamemode] [page number]`|Shows a list of all maps on Stratus, and can filter results based on author and [gamemode](https://mcresourcepile.github.io/addon-project/wiki/gamemodes)|`/maps` = `/ml`|
 |`/join`|Joins the game, if non-donor then the team is automatically assigned, while players with [premium ranks](wiki/ranks) can select their own team|`/jugar` = `/jouer` = `/spielen`| 
 |`/observe`|Leaves the game. Will not work if player is in danger|`/obs` = `/spectate` = `/leave`|
 |`/report <player> <reason>`|Reports player to staff members. Don't abuse||
