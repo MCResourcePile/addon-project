@@ -30,6 +30,9 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/staff`|Shows staff members online across all servers|`/mods`|
 |`/tp <player>`|Teleport to player||
 |`/toggle <setting>`|Will cycle through different options for the specific setting||
+|`/set <setting name> <setting>`|Sets the specified setting to the specified value||
+|`/settings [page number]`|Lists the all settings||
+|`/setting <setting name>`|Checks the value of the specified setting||
 |`/help <command>`|Shows the in-game Help menu, but this guide is way more helpful|`/?`|
 
 
