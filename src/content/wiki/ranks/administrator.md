@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: f9a825
-symbol: [Admin]
+symbol: "[Admin]"
 symbol_color: fdae24
 discord_title: Administrator
 discord_color: f6a738

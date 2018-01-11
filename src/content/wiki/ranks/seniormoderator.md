@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: b71c1c
-symbol: [Mod]
+symbol: "[Mod]"
 symbol_color: aa0000
 discord_title: Senior Moderator
 discord_color: b71c1c
