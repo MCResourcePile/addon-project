@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: e53935
-symbol: ❖
+symbol: [Mod]
 symbol_color: ff5555
 discord_title: Moderator
 discord_color: e74c3c

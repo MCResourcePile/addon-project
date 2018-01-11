@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: ef9a9a
-symbol: ❖
+symbol: [Mod]
 symbol_color: ff55ff
 discord_title: Junior Moderator
 discord_color: e71a7c
