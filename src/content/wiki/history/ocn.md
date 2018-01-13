@@ -1,7 +1,7 @@
 ---
 title: Overcast Network
 description: About Overcast Network, in relation to Stratus Network
-template: wiki/rank.html
+template: wiki/default.html
 category: history
 ---
 
