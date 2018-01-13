@@ -9,7 +9,7 @@ This page is not complete. Please help contribute to this page <a href="https://
 
 #### Announcement and Beginning
 
-On the 31st of January 2017, [ShinyDialga](ranks/admin) announced that he would be starting a server using the recently open sourced [PGM](history/pgm), alongside ItzaMeLuigi and amactus. By the 4th of February, the server had implemented a rotation and accepted staff members, solidifying the server as a legitimate [Overcast Network](history/ocn) successor.
+On the 31st of January 2017, [ShinyDialga](ranks/administrator) announced that he would be starting a server using the recently open sourced [PGM](history/pgm), alongside ItzaMeLuigi and amactus. By the 4th of February, the server had implemented a rotation and accepted staff members, solidifying the server as a legitimate [Overcast Network](history/ocn) successor.
 
 #### Merge & Early Development
 
