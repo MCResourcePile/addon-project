@@ -18,5 +18,4 @@ Getting into PGM gamemodes can be complex. Below are some guides that can help y
 
 #### Wiki Guides  
 - [New Player Guide](https://mcresourcepile.github.io/addon-project/wiki/guides/newplayerguide)
-- [Introduction to Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo)
 - [Commands](https://mcresourcepile.github.io/addon-project/wiki/guides/commands)
