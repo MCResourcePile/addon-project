@@ -22,5 +22,5 @@ This variant is very similar to the normal TDM, with the exception that players 
 #### Trivia
 
 - It is possible to play a map with both the Rage and Scroebox variant
-- In many TDM maps, there are special items hidden in chest across the map
-- FFA maps can often be confused with TDM maps. It's important to remember their difference; TDM is played in teams while FFA is played solo
+- In many TDM maps, there are special items hidden in chests across the map
+- [FFA](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/other) maps can often be confused with TDM maps. It's important to remember their difference; TDM is played in teams while FFA is played solo

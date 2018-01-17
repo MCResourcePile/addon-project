@@ -21,5 +21,5 @@ Assault is a game Variant where the payload starts in the middle of the map and 
 
 #### Trivia
 
-- Payload is the first orginal gamemode to the Stratus network.
-- Payload was introduced to the community on 12/30/2017.
+- Payload is the first orginal gamemode to Stratus Network.
+- Payload was introduced to the community on Decmeber 30th, 2017.
