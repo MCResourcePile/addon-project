@@ -31,3 +31,7 @@ PGM Perks
 - 15 [SetNext Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#setnext-tokens)
 - 20 [Mutation Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#mutation-tokens)
 - In-game symbol
+
+#### Trivia
+
+- [Linuxydable](https://stratus.network/Linuxydable) is one of the last users to hold the Stratus+ rank
