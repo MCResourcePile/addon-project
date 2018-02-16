@@ -5,7 +5,7 @@ template: wiki/default.html
 category: gameplay
 ---
 
-Tokens exist on the Stratus Network in 2 forms, and can be obtained either in-game by playing, or via the [shop](https://stratusnetwork.buycraft.net/) by either buying them with rank or separetly.
+Tokens exist on the Stratus Network in two forms, and can be obtained either in-game by purchasing them with [droplets](https://mcresourcepile.github.io/addon-project/wiki/gameplay/droplets) or as a prize while playing. Alternatively thew can be obtained via the [shop](https://stratusnetwork.buycraft.net/) by either buying them with rank or separetly.
 
 #### SetNext Tokens
 

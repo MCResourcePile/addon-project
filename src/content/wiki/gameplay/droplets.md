@@ -5,11 +5,11 @@ template: wiki/default.html
 category: gameplay
 ---
 
-Droplets are a form of in game currency where you can purchase gizmos that are used in the lobby
+Droplets are a form of in game currency used to purchase gizmos which can be used in the lobby, or [tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) which can be used while playing.
 
 #### Location
 
-A player can find their droplets by doing /droplets on the server. They can also find the amount in a little box to the right of the screen under "Droplets" or they can look in their hotbar and select the ghast tear which represents a droplet, if you right click on that it will open up a tab called "Gizmos" and that is where you can find, equip, and purchase any of the Gizmos. These Gizmos will affect your experience in the lobby, whether it be by changing the players around or giving you unique items!
+A player can find their droplets by doing /droplets on the server. They can also find the amount in a little box to the right of the screen under "Droplets" or they can look in their hotbar and select the ghast tear which represents a droplet, if you right click on that it will open up a tab called "Gizmos" and that is where you can find, equip, and purchase any of the Gizmos. These Gizmos will affect your experience in the lobby, whether it be by changing the players around or giving you unique items! You can purchase tokens simply by opening the "Token Menu", in the "Main Menu".
 
 #### Gizmos
 
