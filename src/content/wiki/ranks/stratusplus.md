@@ -17,17 +17,17 @@ This rank is no longer available to obtain.
 
 #### Description
 
-This rank, alongside [Stratus-](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratusminus) were introduced to Stratus Network in May, and discontinued in (need date). This rank was a subscription rank, meaning that every month a player would have to renew it and pay for it again.
+This rank, alongside [Stratus-](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratusminus) were introduced to Stratus Network in May, and discontinued in September. This rank was a subscription rank, meaning that every month a player would have to renew it and pay for it again.
 
 #### Perks
 
 Stratus+ had many perks, both in [Cloudy Mapdev](https://mcresourcepile.github.io/addon-project/wiki/history) and the regular PGM server;
 
-Cloudy Perks
+###### Cloudy Perks
 - 3 extra worlds to build in
 - In-game symbol 
 
-PGM Perks
+###### PGM Perks
 - 15 [SetNext Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#setnext-tokens)
 - 20 [Mutation Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#mutation-tokens)
 - In-game symbol

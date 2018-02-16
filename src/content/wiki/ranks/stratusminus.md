@@ -17,7 +17,7 @@ This rank is no longer available to obtain.
 
 #### Description
 
-This rank, alongside [Stratus+](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratusplus) were introduced to Stratus Network in May, and discontinued in (need date). This rank was a subscription rank, meaning that every month a player would have to renew it and pay for it again.
+This rank, alongside [Stratus+](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratusplus) were introduced to Stratus Network in May, and discontinued in September. This rank was a subscription rank, meaning that every month a player would have to renew it and pay for it again.
 
 #### Perks
 
