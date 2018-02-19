@@ -60,8 +60,8 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](gameplay/mutation) for the next match||
 |`/vote [yes:no]`|Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member too||
 |`/tnt [resest:revoke:info]`|Controls your tnt license; your ability to use tnt||
-|`/class [class name]`|Selects or views the your class|`/cl`, `/c`, `/selectclass`, `/klasse`|
-|`/classlist`|Lists all avaliable classes|`/listclasses`, `/classes`, `/cls`| 
+|`/class [class name]`|Selects or views the your class|`/cl`, `/c`, `/selectclass`, `/klasse`, `/kit`|
+|`/classlist`|Lists all avaliable classes|`/listclasses`, `/classes`, `/cls`, `/kits`| 
 |`/inventory <player>`|Opens a player's inventory. Similar to right-clicking on said player|`/inv`, `/vi`|
 |`/matchinfo`|Shows information about the current map|`/match`|
 |`/rate (1:2:3:4:5)`|Rates the current map, gives feedback to map creators|`/ratemap`|
