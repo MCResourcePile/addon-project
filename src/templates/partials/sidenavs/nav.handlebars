@@ -1,0 +1,25 @@
+<ul id="drilldown" class="nav nav-pills nav-stacked sidenav">
+    <li>Navigation</li>
+    <li><a href="/addon-project/wiki/index">Stratus Network</a></li>
+    {{#each this}}
+    <li>
+        <a href="/addon-project/wiki/{{@key}}" data-toggle="collapse" data-target="#menu-{{replace @key ".md" ""}}">{{capitalizeAll (replace (replace @key ".md" "") "_" " ")}}</a>
+        {{#if (isObject this)}}
+        <div style="padding-left:0px;">
+            <ul id="menu-{{replace @key ".md" ""}}" class="nav nav-pills nav-stacked collapse sidenav">
+                {{#each this}}
+                <li class="sidenav-sub"><a href="/addon-project/{{@../key}}/{{replace @key ".md" ""}}">{{capitalizeAll (replace (replace this ".md" "") "_" " ")}}</a></li>
+                {{/each}}
+            </ul>
+        </div>
+        {{/if}}
+    </li>
+    {{/each}}
+    <li>Page Tools</li>
+    <li><a href="https://github.com/MCResourcePile/addon-project/edit/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Edit this page</a></li>
+    <li><a href="https://raw.githubusercontent.com/MCResourcePile/addon-project/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Page source</a></li>
+    <li><a href="https://github.com/MCResourcePile/addon-project/commits/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">Page history</a></li>
+    <li>Wiki Tools</li>
+    <li><a href="/revisions/addonproject">Recent changes</a></li>
+    <li><a href="/addon-project/wiki/tools/contributing">Contributing</a></li>
+</ul>
