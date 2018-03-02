@@ -17,5 +17,5 @@ Getting into PGM gamemodes can be complex. Below are some guides that can help y
 - [XML Documentation](https://docs.stratus.network/)
 
 #### Wiki Guides  
-- [New Player Guide](https://mcresourcepile.github.io/addon-project/wiki/guides/newplayerguide)
+- [New Player Guide](https://mcresourcepile.github.io/addon-project/wiki/guides/new_player_guide)
 - [Commands](https://mcresourcepile.github.io/addon-project/wiki/guides/commands)

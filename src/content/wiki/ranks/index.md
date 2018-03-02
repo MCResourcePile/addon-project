@@ -15,14 +15,14 @@ Current Stratus Network staff ranks:
 - [Administrator](ranks/administrator)
 - [Advisor](ranks/advisor)
 - [Developer](ranks/developer)
-- [Junior Developer](ranks/juniordeveloper)
-- [Senior Moderator](ranks/seniormoderator)
+- [Junior Developer](ranks/junior_developer)
+- [Senior Moderator](ranks/senior_moderator)
 - [Moderator](ranks/moderator)
-- [Map Developer](ranks/mapdeveloper)
+- [Map Developer](ranks/map_developer)
 - [Marketing](ranks/marketing)
-- [Junior Moderator](ranks/juniormoderator)
-- [Senior Referee](ranks/seniorref)
-- [Event Producer](ranks/eventproducer)
+- [Junior Moderator](ranks/junior_moderator)
+- [Senior Referee](ranks/senior_referee)
+- [Event Producer](ranks/event_producer)
 - [Official](ranks/official)
 - [Referee](ranks/referee)
 
@@ -35,21 +35,21 @@ Premium Ranks
 
 #### Miscellaneous Ranks
 
-- [Trial Rank](ranks/trialrank)
+- [Trial Rank](ranks/trial_rank)
 
 ###### Reward-base Ranks
 
 - [Nimbus](ranks/nimbus)
-- [Tournamnet Winner](ranks/tournamentwinner)
-- [Map Maker](ranks/mapmaker)
+- [Tournamnet Winner](ranks/tournament_winner)
+- [Map Maker](ranks/map_maker)
 
 ###### Content-based Ranks
 
-- [Content Creator](ranks/contentcreator)
-- [Internet Famous](ranks/internetfamous)
+- [Content Creator](ranks/content_creator)
+- [Internet Famous](ranks/internet_famous)
 
 ##### Former Ranks
 
 Subscription Ranks
-- [Stratus+](ranks/stratusplus)
-- [Stratus-](ranks/stratusminus)
+- [Stratus+](ranks/stratus_plus)
+- [Stratus-](ranks/stratus_minus)

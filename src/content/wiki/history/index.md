@@ -27,17 +27,17 @@ In early June, the first batch of Moderator applications was opened and a lobby 
 
 The first batch of moderators was then announced, with Epicness, ViceWatercolour, nixter1029, nintendoboy11, Shawnn and slayersource joining the staff team. Matic0b, Timothee38 and nixter1029 joined the web development team, and cs_, Raino and Shawnn were promoted to the role of developer.
 
-In mid July brought the second Mapmaking competition, [DMC](https://mcresourcepile.github.io/contests/stratus/destroy_map_competition), as well as the announcement of new EU and AU connection proxies. By the end of July, this wiki was born, and amactus announced [internet famous](ranks/internetfamous) and [content creator](ranks/contentcreator) ranks.
+In mid July brought the second Mapmaking competition, [DMC](https://mcresourcepile.github.io/contests/stratus/destroy_map_competition), as well as the announcement of new EU and AU connection proxies. By the end of July, this wiki was born, and amactus announced [internet famous](ranks/internet_famous) and [content creator](ranks/content_creator) ranks.
 
 #### Further Expansions
 
 In early August, amactus introduced a new feature, Private Servers! These servers has customisable options for maps, player counts and datacenter location. Around that time, ElectroidFilms was promoted to Administrator, to lead the development team onwards. In September, Map Developer applications were opened, with Jexel, Antnecb, koipen & Matic0B being promoted. As well, the second batch of moderators was announced, with PotatoTheGeek, Ensix, rayfreeze, BTKing, Obelistics and Matic0B joining the team. Private servers were also revamped to make them more affordable and stable, and 1.12 support was added.
 
-The first mini event, [*Just Deserts*](https://mcresourcepile.github.io/addon-project/wiki/events/just_deserts) was announced, as well as a new [website](https://stratus.network) feature by Matic0b, themes. The [XML documentation](docs.stratus.network) website was updated, and Pochinki won *Just Deserts*.
+The first mini event, [*Just Deserts*](https://mcresourcepile.github.io/addon-project/wiki/events/just_deserts) was announced, as well as a new [website](https://stratus.network) feature by Matic0b, themes. The [XML documentation](https://docs.stratus.network) website was updated, and Pochinki won *Just Deserts*.
 
 #### Halloween
 
-In the spooky month of October, a new Halloween lobby was introduced, as well a huge rotation update, adding many Halloween themed maps to the rotations. A new [Halloween Event](https://mcresourcepile.github.io/addon-project/wiki/events/halloween-2017), rewarding the [Nimbus](https://mcresourcepile.github.io/addon-project/wiki/ranks/nimbus) rank to those who collected all 8 special tokens, and a new trophy; *Explorer of the Crypt*, to those who successfully completed the Crypt.
+In the spooky month of October, a new Halloween lobby was introduced, as well a huge rotation update, adding many Halloween themed maps to the rotations. A new [Halloween Event](https://mcresourcepile.github.io/addon-project/wiki/events/halloween_2017), rewarding the [Nimbus](https://mcresourcepile.github.io/addon-project/wiki/ranks/nimbus) rank to those who collected all 8 special tokens, and a new trophy; *Explorer of the Crypt*, to those who successfully completed the Crypt.
 
 Also in October was the first ever [Rift event](https://mcresourcepile.github.io/addon-project/wiki/events/rift)! This event rewarded players who were on the winning team and either had the most kills or broke the biggest portion of the objectives, with the *Wreck-it Rift* trophy. A second Rift event was held later in the month. 
 
@@ -49,6 +49,6 @@ Also in October was the first ever [Rift event](https://mcresourcepile.github.io
 
 There were many new additions to the staff team. In late November khazhyk became an [advisor](https://mcresourcepile.github.io/addon-project/wiki/ranks/advisor). The [Official](https://mcresourcepile.github.io/addon-project/wiki/ranks/official) was re-indroduced in early December, which was given to ViceWatercolour and nigges60. Along with this new rank, the [Marketing](https://mcresourcepile.github.io/addon-project/wiki/ranks/marketing) rank was also re-introduced. amactus, ViceWatercolour, Matic0B and Epicness hold this rank. Later in the month, a new [Admin](https://mcresourcepile.github.io/addon-project/wiki/ranks/administrator) BrettOgden joined the staff team. The second moderator applications are announced, and the third batch of moderators; Lieutenantpants, Pelpelajax, Diabolicx, Monti, byRobo, Ivan\_O, mitchiii\_, BGMP, Kingie, and wylt join the staff team in January.
 
-A new winter lobby was introduced, alongside a festive map rotation update. The [Christmas Event Advent Calendar](https://mcresourcepile.github.io/addon-project/wiki/events/advent-calendar) was introduced for the festive season, a new challenge or event to complete for each day till Chirstmas. There were many prizes given out, includeding the Nimbus rank and the *Advent Master* trophy.
+A new winter lobby was introduced, alongside a festive map rotation update. The [Christmas Event Advent Calendar](https://mcresourcepile.github.io/addon-project/wiki/events/advent_calendar) was introduced for the festive season, a new challenge or event to complete for each day till Chirstmas. There were many prizes given out, includeding the Nimbus rank and the *Advent Master* trophy.
 
 In mid Decmber a new feature, Filterable Maps was introduced. This allows players to filter maps by map author or gamemode while in game, making it easier to select a map for a [SetNext Token](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens).
