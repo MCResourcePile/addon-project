@@ -2,7 +2,7 @@
     padding: 0px 15px;
 }
 
-.sidenav-sub {
+.sidenav > li {
     padding-left: 12px;
 }
 

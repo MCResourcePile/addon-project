@@ -9,7 +9,7 @@
             </ul>
         </div>
         {{else}}
-        <a href="/addon-project/wiki{{replace (replaceFirst (keyPath @root this @key) @key "") ".md" ""}}">{{capitalizeAll (replace (replace this ".md" "") "_" " ")}}</a>
+        <a class="single" href="/addon-project/wiki{{replace (replaceFirst (keyPath @root this @key) @key "") ".md" ""}}">{{capitalizeAll (replace (replace this ".md" "") "_" " ")}}</a>
         {{/if}}
     </li>
     {{/isnt}}
