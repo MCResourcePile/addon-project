@@ -1,0 +1,16 @@
+    {{#each this}}
+    {{#isnt @key "index.md"}}
+    <li>
+        {{#if (isObject this)}}
+        <a href="/addon-project/wiki{{replace (replaceFirst (keyPath @root this @key) @key "") ".md" ""}}" data-toggle="collapse" data-target="#menu-{{replace @key ".md" ""}}">{{capitalizeAll (replace (replace @key ".md" "") "_" " ")}}</a>
+        <div style="padding-left:0px;">
+            <ul id="menu-{{replace @key ".md" ""}}" class="nav nav-pills nav-stacked collapse sidenav">
+                {{> nav_item}}
+            </ul>
+        </div>
+        {{else}}
+        <a href="/addon-project/wiki{{replace (replaceFirst (keyPath @root this @key) @key "") ".md" ""}}">{{capitalizeAll (replace (replace this ".md" "") "_" " ")}}</a>
+        {{/if}}
+    </li>
+    {{/isnt}}
+    {{/each}}

@@ -20,4 +20,4 @@ This page is not complete. Please help contribute to this page <a href="https://
 
 #### Other Events
 
-- [Halloween Event 2017](events/halloween-2017)
+- [Halloween Event 2017](events/halloween_2017)
