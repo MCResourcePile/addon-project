@@ -18,7 +18,7 @@ module.exports = function(grunt) {
                     src: 'src/templates/partials/sidenavs/nav.handlebars',
                     dest: 'src/templates/temp/nav.html'
                 }],
-                helpers: 'src/templates/helpers/*.js',
+                helpers: ['handlebars-helpers', 'src/templates/helpers/*.js'],
                 partials: 'src/templates/partials/sidenavs/*.html',
                 templateData: 'src/temp/wiki_navigation.json'
             }
@@ -33,7 +33,7 @@ module.exports = function(grunt) {
                 dest: 'out'
             }
         },
-        clean: ['src/temp'],
+        clean: ['src/temp', 'src/templates/temp'],
         copy: {
             assets: {
                 expand: true,
@@ -55,5 +55,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
 
-    grunt.registerTask('default', ['tree', 'compile-handlebars', 'site', 'copy']);
+    grunt.registerTask('default', ['tree', 'compile-handlebars', 'site', 'clean', 'copy']);
 }
