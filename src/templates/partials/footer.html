@@ -39,7 +39,7 @@
         <script src="https://mcresourcepile.github.io/assets/js/commons.js"></script>
         <script>
             $(document).ready(function(){
-                $("[href='/addon-project/<%= document.dest.replace('.html', '') %>']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
+                $("[href='/addon-project/<%= document.dest.replace('/index.html', '').replace('.html', '') %>']").parent('li').addClass("active").children('div').children('ul').removeClass('collapse');
                 $("li.single.active").parent('ul').removeClass('collapse');
             });
             $(function() {
