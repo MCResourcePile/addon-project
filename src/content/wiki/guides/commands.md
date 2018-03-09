@@ -11,10 +11,10 @@ There are a wide variety of commans available to all players, throughout the ser
 
 |Command|Description|Alias|
 |-----|-----|-----|
-|`/droplets [player]`|Shows how many [droplets](gameplay/droplets) a player has|`/drp`|
+|`/droplets [player]`|Shows how many [droplets](https://mcresourcepile.github.io/addon-project/wiki/gameplay/droplets) a player has|`/drp`|
 |`/friends [page number]`|Shows what servers your friends are on|`/frs`|
 |`/stats [player]`|Shows player stats||
-|`/tokens [player]`|Shows current [tokens](gameplay/tokens) of a player||
+|`/tokens [player]`|Shows current [tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) of a player||
 |`/gm`|Shows current gamemode||
 |`/unstuck`|Free yourself from being stuck inside a block|`/!`|
 |`/msg <player> <message>`|Sends a private message|`/message`, `/dm`, `/pm`, `/tell`, `/whisper`|
@@ -52,12 +52,12 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/mapnext`|Shows the next map in the rotation|`/nextmap`, `/nm`, `/mn`, `/next`|
 |`/mapinfo [map name]`|Shows information about the selected map. If no map is specified, then it shows info about the current map|`/map`|
 |`/maplist [-a author] [-g gamemode] [page number]`|Shows a list of all maps on Stratus, and can filter results based on author and [gamemode](https://mcresourcepile.github.io/addon-project/wiki/gamemodes)|`/maps`, `/ml`|
-|`/join`|Joins the game, if non-donor then the team is automatically assigned, while players with [premium ranks](wiki/ranks) can select their own team|`/jugar`, `/jouer`, `/spielen`| 
+|`/join`|Joins the game, if non-donor then the team is automatically assigned, while players with [premium ranks](https://mcresourcepile.github.io/addon-project/wiki/ranks) can select their own team|`/jugar`, `/jouer`, `/spielen`| 
 |`/observe`|Leaves the game. Will not work if player is in danger|`/obs`, `/spectate`, `/leave`|
 |`/report <player> <reason>`|Reports player to staff members. Don't abuse||
 |`/rotation [page number]`|Shows the current rotation of maps|`/rot`, `/rota`, `/maprot`, `/maprotation`|
 |`/t [message]`|Talk in team chat||
-|`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](gameplay/mutation) for the next match||
+|`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mutation) for the next match||
 |`/vote [yes:no]`|Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member too||
 |`/tnt [resest:revoke:info]`|Controls your tnt license; your ability to use tnt||
 |`/class [class name]`|Selects or views the your class|`/cl`, `/c`, `/selectclass`, `/klasse`, `/kit`|

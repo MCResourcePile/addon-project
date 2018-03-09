@@ -13,7 +13,7 @@ abbreviation: Map Dev
 groups: Staff
 ---
 
-Map Developers are the staff members in charge of creating and managing maps. A Map developer is very knowledgeable in either building, [XML](xml), or both.
+Map Developers are the staff members in charge of creating and managing maps. A Map developer is very knowledgeable in either building, XML, or both.
 
 #### Description
 

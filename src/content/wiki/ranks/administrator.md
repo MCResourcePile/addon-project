@@ -13,12 +13,12 @@ abbreviation: Admin
 groups: Staff
 ---
 
-The rank of Administrator is the highest [rank](ranks) on the [Stratus Network](/stratus.network). It is currently held by four users, including the server owner ShinyDialga.
+The rank of Administrator is the highest [rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/) on the [Stratus Network](http://stratus.network). It is currently held by four users, including the server owner ShinyDialga.
 
 #### Description
 
-Administrators are tasked with running the entirety of the server. Each administrator has a specific focus, however they all oversee the entire operation of the server. They plan out and implement new features as well as manage the [staff](/stratus.network/staff) and apply donator ranks. While Moderators are tasked with upholding the server [rules](/http://stratus.network/rules/en) and being an integral part of the community, Administrators are always there to step in if necessary. Administrators are guided by the Advisors, an experienced team of members who formally ran Overcast, with most being former admins.
+Administrators are tasked with running the entirety of the server. Each administrator has a specific focus, however they all oversee the entire operation of the server. They plan out and implement new features as well as manage the [staff](http://stratus.network/staff) and apply donator ranks. While Moderators are tasked with upholding the server [rules](http://stratus.network/rules/en) and being an integral part of the community, Administrators are always there to step in if necessary. Administrators are guided by the Advisors, an experienced team of members who formally ran Overcast, with most being former admins.
 
 #### Requirements
 
-There are currently no set requirements to become an Administrator. However, it can be assumed that a high ranking user (such as a Senior Moderator or Developer) that proves to be an extremely valued asset to the server's system will be promoted to Admin.
+There are currently no set requirements to become an Administrator. However, it can be assumed that a high ranking user (such as a [Senior Moderator](https://mcresourcepile.github.io/addon-project/wiki/ranks/senior_moderator) or [Developer](https://mcresourcepile.github.io/addon-project/wiki/ranks/developer) that proves to be an extremely valued asset to the server's system will be promoted to Admin.

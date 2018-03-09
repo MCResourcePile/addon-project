@@ -17,7 +17,7 @@ This rank is given as a prize to players during server events.
 
 #### Description
 
-The Nimbus rank is very similar to the [Alto rank](ranks/alto). Players with this rank can fly in the lobby, choose their own team and a 2.0x [droplet](gameplay/droplets) multiplier, although are not join full teams. Unlike the Alto ranks, players are also given 3 [SetNext tokens](gameplay/tokens) and 1 [mutation token](gameplay/tokens). This rank only lasts two weeks.
+The Nimbus rank is very similar to the [Alto rank](https://mcresourcepile.github.io/addon-project/wiki/ranks/alto). Players with this rank can fly in the lobby, choose their own team and a 2.0x [droplet](https://mcresourcepile.github.io/addon-project/wiki/droplets) multiplier, although are not join full teams. Unlike the Alto ranks, players are also given 3 [SetNext tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) and 1 [mutation token](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens). This rank only lasts two weeks.
 
 #### Usage
 

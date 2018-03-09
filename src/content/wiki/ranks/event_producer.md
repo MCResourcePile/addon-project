@@ -17,7 +17,7 @@ Event Producers are in charge of planning events.
 
 #### Description
 
-Unlike the [Senior Referees](https://mcresourcepile.github.io/addon-project/wiki/ranks/seniorref) who spend their time making sure events run smoothly, Event Producers are behind the scenes, laying down the foundations of the event. Eps are in charge of deciding on tournament gamemodes, maps to be played (will make maps specificly for the tournamnt if necessary), and tournament format; how it will play out.
+Unlike the [Senior Referees](https://mcresourcepile.github.io/addon-project/wiki/ranks/senior_ref) who spend their time making sure events run smoothly, Event Producers are behind the scenes, laying down the foundations of the event. Eps are in charge of deciding on tournament gamemodes, maps to be played (will make maps specificly for the tournamnt if necessary), and tournament format; how it will play out.
 
 #### Requirements
 

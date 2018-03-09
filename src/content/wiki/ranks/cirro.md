@@ -24,10 +24,10 @@ Cirro is a permanent purchasable rank, that can be bought in the Stratus Network
 - White star in-game
 - Join full teams
 - Choose your team
-- Stack of [Mutation Tokens](gameplay/tokens) (8)
-- Stack of [Setnext Tokens](gameplay/tokens) (8)
+- Stack of [Mutation Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) (8)
+- Stack of [Setnext Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) (8)
 - Donator rank in Discord
 - Control music bot in Discord
-- 2.5x [Droplet](gameplay/droplets) Multiplier
+- 2.5x [Droplet](https://mcresourcepile.github.io/addon-project/wiki/gameplay/droplets) Multiplier
 - Donor only betas
 - Lasts indefinitley

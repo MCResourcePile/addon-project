@@ -12,44 +12,44 @@ Purchasable ranks, also known as donator ranks, are available to any user throug
 #### Staff Ranks
 
 Current Stratus Network staff ranks:
-- [Administrator](ranks/administrator)
-- [Advisor](ranks/advisor)
-- [Developer](ranks/developer)
-- [Junior Developer](ranks/junior_developer)
-- [Senior Moderator](ranks/senior_moderator)
-- [Moderator](ranks/moderator)
-- [Map Developer](ranks/map_developer)
-- [Marketing](ranks/marketing)
-- [Junior Moderator](ranks/junior_moderator)
-- [Senior Referee](ranks/senior_referee)
-- [Event Producer](ranks/event_producer)
-- [Official](ranks/official)
-- [Referee](ranks/referee)
+- [Administrator](administrator)
+- [Advisor](advisor)
+- [Developer](developer)
+- [Junior Developer](junior_developer)
+- [Senior Moderator](senior_moderator)
+- [Moderator](moderator)
+- [Map Developer](map_developer)
+- [Marketing](marketing)
+- [Junior Moderator](junior_moderator)
+- [Senior Referee](senior_referee)
+- [Event Producer](event_producer)
+- [Official](official)
+- [Referee](referee)
 
 #### Purchasable Ranks
 
 Premium Ranks
-- [Strato](ranks/strato)
-- [Alto](ranks/alto)
-- [Cirro](ranks/cirro)
+- [Strato](strato)
+- [Alto](alto)
+- [Cirro](cirro)
 
 #### Miscellaneous Ranks
 
-- [Trial Rank](ranks/trial_rank)
+- [Trial Rank](trial_rank)
 
 ###### Reward-base Ranks
 
-- [Nimbus](ranks/nimbus)
-- [Tournamnet Winner](ranks/tournament_winner)
-- [Map Maker](ranks/map_maker)
+- [Nimbus](nimbus)
+- [Tournamnet Winner](tournament_winner)
+- [Map Maker](map_maker)
 
 ###### Content-based Ranks
 
-- [Content Creator](ranks/content_creator)
-- [Internet Famous](ranks/internet_famous)
+- [Content Creator](content_creator)
+- [Internet Famous](internet_famous)
 
 ##### Former Ranks
 
 Subscription Ranks
-- [Stratus+](ranks/stratus_plus)
-- [Stratus-](ranks/stratus_minus)
+- [Stratus+](stratus_plus)
+- [Stratus-](stratus_minus)

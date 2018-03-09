@@ -17,7 +17,7 @@ Junior Developer is the rank before [Developer](https://mcresourcepile.github.io
 
 #### Description
 
-A Junior Developer is similar to Developer, but with less permsiions and access. Although they can be promoted to Developer, this isn't guaranteed to happen. Similar to a Developer, Jr Devs can either work on webiste or PGM developement, and tend to work on their own projects. You can review the revisions [here](/stratus.network/revisions/plugins)
+A Junior Developer is similar to Developer, but with less permsiions and access. Although they can be promoted to Developer, this isn't guaranteed to happen. Similar to a Developer, Jr Devs can either work on webiste or PGM developement, and tend to work on their own projects. You can review the revisions [here](https://stratus.network/revisions/plugins)
 
 #### Requirements
 

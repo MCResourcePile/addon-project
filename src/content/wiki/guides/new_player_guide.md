@@ -7,7 +7,7 @@ category: guides
 
 #### Welcome!
 
-Hello and welcome to the Stratus Network! We are very glad you found us!. The Stratus Network is a PvP based server run on the [PGM](https://mcresourcepile.github.io/addon-project/wiki/pgm) plugin. The server provides unique, dynamic maps and [gamemodes](https://mcresourcepile.github.io/addon-project/wiki/gamemodes) created by the dedicated members of our awesome community.
+Hello and welcome to the Stratus Network! We are very glad you found us!. The Stratus Network is a PvP based server run on the [PGM](https://mcresourcepile.github.io/addon-project/wiki/history/pgm) plugin. The server provides unique, dynamic maps and [gamemodes](https://mcresourcepile.github.io/addon-project/wiki/gamemodes) created by the dedicated members of our awesome community.
 
 #### Lobby Menu
 
@@ -23,7 +23,7 @@ This is the server selection screen. It also shows how many people are currently
 
 ![Lobby 3](../../assets/img/newplayerguide/lobby3.png)
 
-The second item is the gizmo menu. [Gizmos](https://mcresourcepile.github.io/addon-project/wiki/guides/gizmo) can be purchase with [droplets](gameplay/droplets), which can customize your experience in the lobby.
+The second item is the gizmo menu. [Gizmos](https://mcresourcepile.github.io/addon-project/wiki/gameplay/droplets#gizmos) can be purchase with [droplets](https://mcresourcepile.github.io/addon-project/wiki/gameplay/droplets), which can customize your experience in the lobby.
 
 ![Lobby 4](../../assets/img/newplayerguide/lobby4.png)
 
@@ -64,7 +64,7 @@ The fourth item is the main menu. Under the menu, you have access to the token m
 
 ![Inventory 2](../../assets/img/newplayerguide/inventory2.png)
 
-[Tokens](gameplay/tokens) are special items that allow you to set a poll for a map or for a [mutation](gameplay/mutations) to be played in the next match. Tokens can be purchased in the Stratus shop or bought using droplets. Tokens can also be obtained by purchasing a legacy rank. There is also a chance of receiving a SetNext or Mutation token at the end of every match. You will be alerted in chat if you are a lucky recipient. Those on the winning team, and the [MVP](gameplay/mvp), will automatically have a higher chance of receiving a token.
+[Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) are special items that allow you to set a poll for a map or for a [mutation](gameplay/mutations) to be played in the next match. Tokens can be purchased in the Stratus shop or bought using droplets. Tokens can also be obtained by purchasing a legacy rank. There is also a chance of receiving a SetNext or Mutation token at the end of every match. You will be alerted in chat if you are a lucky recipient. Those on the winning team, and the [MVP](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mvp), will automatically have a higher chance of receiving a token.
 
 ![Inventory 3](../../assets/img/newplayerguide/inventory3.png)
 

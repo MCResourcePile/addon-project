@@ -14,10 +14,10 @@ This page is not complete. Please help contribute to this page <a href="https://
 
 #### [Map Making Contests](https://mcresourcepile.github.io/contests/stratus)
 
-- [Mini Map Making Competition](https://mcresourcepile.github.io/contests/stratus/mini_map_competition)
+- [Mini Map Making Competition](https://mcresourcepile.github.io/contests/stratus/mini_map_making_competition)
 - [Destroy Map Making Competition](https://mcresourcepile.github.io/contests/stratus/destroy_map_competition)
 
 
 #### Other Events
 
-- [Halloween Event 2017](events/halloween_2017)
+- [Halloween Event 2017](halloween_2017)

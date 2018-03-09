@@ -13,7 +13,7 @@ abbreviation: Jr Mod
 groups: Staff, Moderation Staff
 ---
 
-Junior Moderators are a group of staff members together with Moderators and Senior Moderators that enforce the rules and maintain a friendly atmosphere. They represent the order of the community, are expected to uphold the rules and assist players. This rank is the first step in the path of moderation, and is a trial to be accustomed to the inner workings of the staff team and handling of the authority given.
+Junior Moderators are a group of staff members together with [Moderators](https://mcresourcepile.github.io/addon-project/wiki/ranks/moderator) and [Senior Moderators](https://mcresourcepile.github.io/addon-project/wiki/ranks/senior_moderator) that enforce the rules and maintain a friendly atmosphere. They represent the order of the community, are expected to uphold the rules and assist players. This rank is the first step in the path of moderation, and is a trial to be accustomed to the inner workings of the staff team and handling of the authority given.
 
 #### Description
 
