@@ -13,7 +13,6 @@ Purchasable ranks, also known as donator ranks, are available to any user throug
 
 Current Stratus Network staff ranks:
 - [Administrator](administrator)
-- [Advisor](advisor)
 - [Developer](developer)
 - [Junior Developer](junior_developer)
 - [Senior Moderator](senior_moderator)
@@ -49,6 +48,9 @@ Premium Ranks
 - [Internet Famous](internet_famous)
 
 ##### Former Ranks
+
+Staff Ranks
+- [Advisor](advisor)
 
 Subscription Ranks
 - [Stratus+](stratus_plus)

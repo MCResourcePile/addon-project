@@ -13,11 +13,11 @@ abbreviation:
 groups: Staff
 ---
 
-Advisors are part of the former Overcast Network Development and [Administration](https://mcresourcepile.github.io/addon-project/wiki/ranks/administrator) team. They are chosen to assist and guide the staff and the development team with their experience and knowledge on running the servers. They have operator permissions on the server.
+Advisors are part of the former [Overcast Network](https://mcresourcepile.github.io/addon-project/wiki/history/ocn) Development and Administration team. They were chosen to assist and guide the staff and the development team with their former experience and knowledge on running the servers. They also had operator permissions on the server. The Advisor rank was [retired](https://stratus.network/forums/topics/5a9c9954c38e850001000008) on March 4th, 2018.
 
 #### Description
 
-Advisors serve as the tutors for the administration and staff team. They help the staff keep the server running smoothly take on projects on their own. Despite them having operator permissions, they are not official [staff](https://stratus.network/staff). However, they may assist in moderation.
+Advisors served as the tutors for the administration and staff team. They helped the staff keep the server running smoothly took on projects on their own. Despite them having operator permissions, they were not official [staff](https://stratus.network/staff). However, they may assist in moderation.
 
 #### Requirements
 
