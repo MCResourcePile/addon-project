@@ -55,7 +55,8 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/join`|Joins the game, if non-donor then the team is automatically assigned, while players with [premium ranks](https://mcresourcepile.github.io/addon-project/wiki/ranks) can select their own team|`/jugar`, `/jouer`, `/spielen`| 
 |`/observe`|Leaves the game. Will not work if player is in danger|`/obs`, `/spectate`, `/leave`|
 |`/report <player> <reason>`|Reports player to staff members. Don't abuse||
-|`/rotation [page number]`|Shows the current rotation of maps|`/rot`, `/rota`, `/maprot`, `/maprotation`|
+|`/rotations [-p page]`| Shows the current rotation|`/rots`, `/maprotations`, `/maprots`|
+|`/rotation [page number]`|Shows the maps in the current rotation|`/rot`, `/rota`, `/maprot`, `/maprotation`|
 |`/t [message]`|Talk in team chat||
 |`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mutation) for the next match||
 |`/vote [yes:no]`|Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member too||
