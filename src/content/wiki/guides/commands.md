@@ -59,6 +59,7 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/rotation [page number]`|Shows the maps in the current rotation|`/rot`, `/rota`, `/maprot`, `/maprotation`|
 |`/t [message]`|Talk in team chat||
 |`/poll [next:mt] [map:mutation]`|Uses a token to set a map or [mutation](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mutation) for the next match||
+|`/mutation <list> [page number]`|Lists and describes all avaliable mutations|`/mutations`, `/mutate`, `/mt`|
 |`/vote [yes:no]`|Vote in a poll. Most comonly used with tokens; setting a next map or a next mutation, yet you might see a custom poll made by a staff member too||
 |`/tnt [resest:revoke:info]`|Controls your tnt license; your ability to use tnt||
 |`/class [class name]`|Selects or views the your class|`/cl`, `/c`, `/selectclass`, `/klasse`, `/kit`|
