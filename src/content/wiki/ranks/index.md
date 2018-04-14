@@ -18,6 +18,7 @@ Current Stratus Network staff ranks:
 - [Senior Moderator](senior_moderator)
 - [Moderator](moderator)
 - [Map Developer](map_developer)
+- [Builder](builder)
 - [Marketing](marketing)
 - [Junior Moderator](junior_moderator)
 - [Senior Referee](senior_referee)
