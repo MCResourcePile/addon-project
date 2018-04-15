@@ -17,7 +17,7 @@ The Builder rank is the most recently introduced rank, being pubicly announced o
 
 #### Description
 
-The Builder works with the rest of the [Map Dev team](https://mcresourcepile.github.io/addon-project/wiki/ranks/map_developer) to develope maps for the server. This rank have the following access and perks;
+The Builder works with the rest of the [Map Dev team](https://mcresourcepile.github.io/addon-project/wiki/ranks/map_developer) to develop maps for the server. This rank have the following access and perks;
 - Access to private dropbox to test maps
 - Unlimited access to Anax, our building server
 - Access to our map development server
