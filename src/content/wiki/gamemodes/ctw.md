@@ -20,5 +20,5 @@ Wool monuments are a singular, one block space where the wools are to be placed.
 #### Trivia
 - There is no limit to the amount of teams in a CTW map
 - There are many different types of CTW variants. For example, some maps require you to craft the wool, some require you to complete a [monument](dtm) in order to gain access to the wool, and some require you to place the wool on the enemy side
-- The reward for throwing the enemy wool into the void will is a few droplets
+- The reward for throwing the enemy wool into the void is a few droplets
 - Light gray wool is marked on the scoreboard as “Silver Wool”
