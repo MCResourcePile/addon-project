@@ -67,3 +67,4 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/inventory <player>`|Opens a player's inventory. Similar to right-clicking on said player|`/inv`, `/vi`|
 |`/matchinfo`|Shows information about the current map|`/match`|
 |`/rate (1:2:3:4:5)`|Rates the current map, gives feedback to map creators|`/ratemap`|
+|`/matchstats [target]`|Shows a player's stats for the current match|`/mstats`|
