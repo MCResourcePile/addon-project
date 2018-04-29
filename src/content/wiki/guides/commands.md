@@ -68,3 +68,4 @@ There are a wide variety of commans available to all players, throughout the ser
 |`/matchinfo`|Shows information about the current map|`/match`|
 |`/rate (1:2:3:4:5)`|Rates the current map, gives feedback to map creators|`/ratemap`|
 |`/matchstats [target]`|Shows a player's stats for the current match|`/mstats`|
+|`/mode <next:list>`|Show's the next expected modes for [DTM](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtm) or [DTC](https://mcresourcepile.github.io/addon-project/wiki/gamemodes/dtc) maps as defined by the [XML](https://docs.stratus.network/modules/monument_modes)|`/modes`|
