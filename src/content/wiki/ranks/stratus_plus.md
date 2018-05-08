@@ -8,7 +8,7 @@ badge_color: 64dd17
 symbol: "+"
 symbol_color: 00AAAA
 discord_title: Stratus+
-discord_color: 
+discord_color: 00c02e
 abbreviation: 
 groups: Former Rank, Miscellaneous
 ---

@@ -8,7 +8,7 @@ badge_color: 64dd17
 symbol: "-"
 symbol_color: 00AAAA
 discord_title: Stratus-
-discord_color: 
+discord_color: 00c02e
 abbreviation: 
 groups: Former Rank, Miscellaneous
 ---
@@ -31,3 +31,7 @@ Stratus- had many perks, both in [Cloudy Mapdev](https://mcresourcepile.github.i
 - 5 [SetNext Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#setnext-tokens)
 - 10 [Mutation Tokens](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens#mutation-tokens)
 - In-game symbol
+
+#### Trivia
+
+- [rockymine](https://stratus.network/rockymine) is one of the last users to hold the Stratus- rank
