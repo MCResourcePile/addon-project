@@ -13,7 +13,7 @@ abbreviation:
 groups: Staff
 ---
 
-The Builder rank is the most recently introduced rank, being pubicly announced on April 13th, 2018.
+The Builder rank is the most recently introduced rank, being pubicly [announced](https://stratus.network/forums/topics/5ad1166b306a3700010001a2) on April 13th, 2018.
 
 #### Description
 
@@ -26,4 +26,4 @@ The Builder works with the rest of the [Map Dev team](https://mcresourcepile.git
 
 #### Requirements
 
-This rank will only be given to individuals who have build quality maps, or who work closely with the map developers. In the future this rank is expected to be referral-based, and as such no applications will be open to obtain this rank.
+This rank will only be given to individuals who have build quality maps, or who work closely with the map developers. There is a referral-based system to obtain this rank, as well as applications.
