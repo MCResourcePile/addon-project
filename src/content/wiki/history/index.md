@@ -5,7 +5,7 @@ template: wiki/default.html
 category: wiki
 ---
 
-This page is not complete. Please help contribute to this page <a href="https://github.com/MCResourcePile/addon-project/edit/source/src/content/<%= document.dest.replace('.html', '.md') %>" target="_blank">here</a> or by clicking `Edit this page` in the navigation to the right.
+This page is not complete. Please help contribute to this page <a href="https://mcresourcepile.github.io/addon-project/wiki/tools/contributing<%= document.dest.replace('.html', '.md') %>" target="_blank">here</a> or by clicking `Edit this page` in the navigation to the right.
 
 #### Announcement and Beginning
 
@@ -27,13 +27,13 @@ In early June, the first batch of Moderator applications was opened and a lobby 
 
 The first batch of moderators was then announced, with Epicness, ViceWatercolour, nixter1029, nintendoboy11, Shawnn and slayersource joining the staff team. Matic0b, Timothee38 and nixter1029 joined the web development team, and cs_, Raino and Shawnn were promoted to the role of developer.
 
-In mid July brought the second Mapmaking competition, [DMC](https://mcresourcepile.github.io/contests/stratus/destroy_map_competition), as well as the announcement of new EU and AU connection proxies. By the end of July, this wiki was born, and amactus announced [internet famous](https://mcresourcepile.github.io/addon-project/wiki/ranks/internet_famous) and [content creator](https://mcresourcepile.github.io/addon-project/wiki/ranks/content_creator) ranks.
+In mid July brought the second Mapmaking competition, [DMC](https://mcresourcepile.github.io/contests/stratus/destroy_map_making_competition), as well as the announcement of new EU and AU connection proxies. By the end of July, this wiki was born, and amactus announced [internet famous](https://mcresourcepile.github.io/addon-project/wiki/ranks/internet_famous) and [content creator](https://mcresourcepile.github.io/addon-project/wiki/ranks/content_creator) ranks.
 
 #### Further Expansions
 
 In early August, amactus introduced a new feature, Private Servers! These servers has customisable options for maps, player counts and datacenter location. Around that time, ElectroidFilms was promoted to Administrator, to lead the development team onwards. In September, Map Developer applications were opened, with Jexel, Antnecb, koipen & Matic0B being promoted. As well, the second batch of moderators was announced, with PotatoTheGeek, Ensix, rayfreeze, BTKing, Obelistics and Matic0B joining the team. Private servers were also revamped to make them more affordable and stable, and 1.12 support was added.
 
-The first mini event, [*Just Deserts*](https://mcresourcepile.github.io/addon-project/wiki/events/just_deserts) was announced, as well as a new [website](https://stratus.network) feature by Matic0b, themes. The [XML documentation](https://docs.stratus.network) website was updated, and Pochinki won *Just Deserts*.
+The first mini event, [*Just Deserts*](https://mcresourcepile.github.io/leagues/stratus/just_deserts) was announced, as well as a new [website](https://stratus.network) feature by Matic0b, themes. The [XML documentation](https://docs.stratus.network) website was updated, and Pochinki won *Just Deserts*.
 
 #### Halloween
 
