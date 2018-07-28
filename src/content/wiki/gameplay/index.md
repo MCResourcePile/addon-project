@@ -9,10 +9,10 @@ This page is not complete. Please help contribute to this page <a href="https://
 
 #### Match Altering
 
-- [Tokens](gameplay/tokens)
-- [Mutations](gameplay/mutations)
+- [Tokens](tokens)
+- [Mutations](mutations)
 
 #### Player Altering
 
-- [MVP](gameplay/mvp)
-- [Droplets](gameplay/droplets)
+- [MVP](mvp)
+- [Droplets](droplets)
