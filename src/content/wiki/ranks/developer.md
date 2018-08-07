@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: 6a1b9a
-symbol: ❖
+symbol: [Dev]
 symbol_color: aa00aa
 discord_title: Developer
 discord_color: 713ba2
