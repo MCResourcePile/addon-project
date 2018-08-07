@@ -5,7 +5,7 @@ template: wiki/rank.html
 category: ranks
 
 badge_color: ce93d8
-symbol: [Dev]
+symbol: "[Dev]"
 symbol_color: aa00aa
 discord_title: Junior Developer
 discord_color: 906299
