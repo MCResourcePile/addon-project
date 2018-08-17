@@ -13,25 +13,26 @@ On the 31st of January 2017, [ShinyDialga](https://mcresourcepile.github.io/addo
 
 #### Merge & Early Development
 
-On the 5th of Feb 2017, Shiny announced that the server would be merging with [The Equinox Network](equinox), adding Tazz to the administration team, as well as several other staff. On this day amactus also announced new [rules](https://stratus.network/rules/en) for the Server.
+On the 5th of Feb 2017, Shiny announced that the server would be merging with [The Equinox Network](equinox), adding Tazz to the [administration]
+(https://mcresourcepile.github.io/addon-project/wiki/ranks/administrator) team, as well as several other staff. On this day amactus also announced new [rules](https://stratus.network/rules/en) for the Server.
 
 During February and March, several features were introduced including an autoclick detector, dynamic rotations, [donations](https://stratusnetwork.buycraft.net), a website, and in-game stats.
 
 In April, Shiny announced Cloudy MapDev to the public and set way for the first April Fools day prank, in which the player count was set to 5000 in reference to Lifeboat.
 
-In May, the [Mini Mapmaking Competition](https://mcresourcepile.github.io/contests/stratus/mini_map_making_competition) was announced. This was an effort to grow Cloudy and add new maps to the server. ItzaMeLuigi announced an [MVP system](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mvp) and added two new ranks to the shop. A [token system](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) was created by then contributor cs_. Later that month the first tournament, [*Stratus: Return of the Gamemodes*](https://mcresourcepile.github.io/leagues/stratus/stratus_return_of_the_gamemodes) was announced.
+In May, the [Mini Mapmaking Competition](https://mcresourcepile.github.io/contests/stratus/mini_map_making_competition) was announced. This was an effort to grow Cloudy and add new maps to the server. ItzaMeLuigi announced an [MVP system](https://mcresourcepile.github.io/addon-project/wiki/gameplay/mvp) and added two new ranks; [Stratus+](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratus_plus) and [Stratus-](https://mcresourcepile.github.io/addon-project/wiki/ranks/stratus_minus) to the shop. A [token system](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens) was created by then contributor cs_. Later that month the first tournament, [*Stratus: Return of the Gamemodes*](https://mcresourcepile.github.io/leagues/stratus/stratus_return_of_the_gamemodes) was announced.
 
 #### Summer Events
 
-In early June, the first batch of Moderator applications was opened and a lobby was set up to allow seamless movement between servers. Later in early July, ElectroidFilms, with help from cs_ and ShinyDialga, announced that Stratus now supported Minecraft versions 1.7-1.12.
+In early June, the first batch of [Moderator](https://mcresourcepile.github.io/addon-project/wiki/ranks/moderator) applications was opened and a lobby was set up to allow seamless movement between servers. Later in early July, ElectroidFilms, with help from cs_ and ShinyDialga, announced that Stratus now supported Minecraft versions 1.7-1.12.
 
-The first batch of moderators was then announced, with Epicness, ViceWatercolour, nixter1029, nintendoboy11, Shawnn and slayersource joining the staff team. Matic0b, Timothee38 and nixter1029 joined the web development team, and cs_, Raino and Shawnn were promoted to the role of developer.
+Later, that batch of moderators was announced, introducing Epicness, ViceWatercolour, nixter1029, nintendoboy11, Shawnn and slayersource to the staff team. Matic0b, Timothee38 and nixter1029 joined the web development team, and cs_, Raino and Shawnn were promoted to the role of [developer](https://mcresourcepile.github.io/addon-project/wiki/ranks/developer).
 
 In mid July brought the second Mapmaking competition, [DMC](https://mcresourcepile.github.io/contests/stratus/destroy_map_making_competition), as well as the announcement of new EU and AU connection proxies. By the end of July, this wiki was born, and amactus announced [internet famous](https://mcresourcepile.github.io/addon-project/wiki/ranks/internet_famous) and [content creator](https://mcresourcepile.github.io/addon-project/wiki/ranks/content_creator) ranks.
 
 #### Further Expansions
 
-In early August, amactus introduced a new feature, Private Servers! These servers has customisable options for maps, player counts and datacenter location. Around that time, ElectroidFilms was promoted to Administrator, to lead the development team onwards. In September, Map Developer applications were opened, with Jexel, Antnecb, koipen & Matic0B being promoted. As well, the second batch of moderators was announced, with PotatoTheGeek, Ensix, rayfreeze, BTKing, Obelistics and Matic0B joining the team. Private servers were also revamped to make them more affordable and stable, and 1.12 support was added.
+In early August, amactus introduced a new feature, Private Servers! These servers has customisable options for maps, player counts and datacenter location. Around that time, ElectroidFilms was promoted to Administrator, to lead the development team onwards. In September, [Map Developer](https://mcresourcepile.github.io/addon-project/wiki/ranks/map_developer) applications were opened, with Jexel, Antnecb, koipen & Matic0B being promoted. As well, the second batch of moderators was announced, with PotatoTheGeek, Ensix, rayfreeze, BTKing, Obelistics and Matic0B joining the team. Private servers were also revamped to make them more affordable and stable, and 1.12 support was added.
 
 The first mini event, [*Just Deserts*](https://mcresourcepile.github.io/leagues/stratus/just_deserts) was announced, as well as a new [website](https://stratus.network) feature by Matic0b, themes. The [XML documentation](https://docs.stratus.network) website was updated, and Pochinki won *Just Deserts*.
 
@@ -51,4 +52,4 @@ There were many new additions to the staff team. In late November khazhyk became
 
 A new winter lobby was introduced, alongside a festive map rotation update. The [Christmas Event Advent Calendar](https://mcresourcepile.github.io/addon-project/wiki/events/advent_calendar) was introduced for the festive season, a new challenge or event to complete for each day till Chirstmas. There were many prizes given out, includeding the Nimbus rank and the *Advent Master* trophy.
 
-In mid Decmber a new feature, Filterable Maps was introduced. This allows players to filter maps by map author or gamemode while in game, making it easier to select a map for a [SetNext Token](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens).
+In mid Decmber a new feature, Filterable Maps was introduced. This allows players to filter maps by map author or gamemode while in game, making it easier to select a map with a [SetNext Token](https://mcresourcepile.github.io/addon-project/wiki/gameplay/tokens).
