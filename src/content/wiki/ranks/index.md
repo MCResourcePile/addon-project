@@ -40,7 +40,7 @@ Premium Ranks
 ###### Reward-base Ranks
 
 - [Nimbus](nimbus)
-- [Tournamnet Winner](tournament_winner)
+- [Tournament Winner](tournament_winner)
 - [Map Maker](map_maker)
 
 ###### Content-based Ranks
