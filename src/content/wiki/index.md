@@ -7,6 +7,6 @@ category: home
 
 This Wiki is managed by members of the community and is designed to serve as a record and a guide for the [Stratus Network](https://stratus.network).  
 Connect to the server through Minecraft with the IP `play.stratus.network`  
-Join the [Stratus Network Discord](https://discord.me/stratus) to connect with the community.
+Join the [Stratus Network Discord](https://discord.gg/Vxmq7Xp) to connect with the community.
 
 Find out how you can contribute to the wiki [here](https://mcresourcepile.github.io/addon-project/wiki/tools/contributing)! Consider joining our [discord server](https://discord.gg/ygNgxKj) to keep up-to-date with other contributors and new updates.
