@@ -53,3 +53,28 @@ table > thead > tr > th,
 table > tbody > tr > td {
     padding: 6px !important;
 }
+
+/* Dark */
+
+[data-theme="dark"] .stack-small {
+    color: #e2e2e2;
+}
+
+[data-theme="dark"] .content-title-url,
+[data-theme="dark"] .content-title-url:hover,
+[data-theme="dark"] .content-title-url:focus {
+    color: #d8d8d8;
+}
+
+[data-theme="dark"] .sidenav > li > a,
+[data-theme="dark"] .sidenav > li.active > a {
+    color: #73b3ea;
+}
+
+[data-theme="dark"] .sidenav > li > a:hover,
+[data-theme="dark"] .sidenav > li > a:focus,
+[data-theme="dark"] .sidenav > li.active > a:hover,
+[data-theme="dark"] .sidenav > li.active > a:focus {
+    background-color: #2f2f2f;
+    color: #fff;
+}
