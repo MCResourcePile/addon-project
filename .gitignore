@@ -2,6 +2,7 @@ node_modules/
 out/
 *~
 *.swp
+package-lock.json
 
 #Mac OSX generated files
 .DS_Store
